@@ -1,6 +1,6 @@
 ### Hi  I'm Namuori00 👋
 
-[![NAMUORI00's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMUORI00)](https://github.com/NAMUORI00/)
+[![NAMUORI00's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMUORI00&theme=gruvbox)](https://github.com/NAMUORI00/)
 
 
 <!--

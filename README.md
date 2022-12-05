@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi  I'm Namuori00 👋
+
+[![NAMUORI00's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMUORI00)](https://github.com/NAMUORI00/)
+
 
 <!--
 **NAMUORI00/NAMUORI00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

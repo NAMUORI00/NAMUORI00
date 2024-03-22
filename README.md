@@ -94,3 +94,14 @@ print('Hello, World');
 
 <h2 align="left">만들어온 사이드 프로젝트</h2>
 
+<h2>📘 My Top Open Source Projects</h2>
+
+<p align="left">
+    <a href="https://github.com/NAMUORI00/OSC-SRTC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NAMUORI00&repo=OSC-SRTC&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/NAMUORI00/CRUD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NAMUORI00&repo=CRUD&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/NAMUORI00/jsquiz-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=NAMUORI00&repo=jsquiz-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/NAMUORI00/music_splitter_project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NAMUORI00&repo=music_splitter_project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
+    <a href="https://github.com/NAMUORI00/Osaka_mobile_FoodScan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NAMUORI00&repo=Osaka_mobile_FoodScan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
+    <a href="https://github.com/NAMUORI00/good-price-jeju"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NAMUORI00&repo=good-price-jeju&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://github.com/NAMUORI00/Golden_Glove"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NAMUORI00&repo=Golden_Glove&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
+

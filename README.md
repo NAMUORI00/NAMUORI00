@@ -94,7 +94,7 @@ print('Hello, World');
 
 <h2 align="left">만들어온 사이드 프로젝트</h2>
 
-<h2>📘 My Top Open Source Projects</h2>
+<h2>📘 </h2>
 
 <p align="left">
     <a href="https://github.com/NAMUORI00/OSC-SRTC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NAMUORI00&repo=OSC-SRTC&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>

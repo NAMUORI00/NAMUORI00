@@ -23,7 +23,7 @@ print('Hello, World');
   <img src="https://github-readme-stats.vercel.app/api?username=NAMUORI00&theme=gruvbox)](https://github.com/NAMUORI00/" alt="macropower" align="right" />
 </a>
 
-- :office: 현재는 새로운 일을 구하는 중 입니다
+- :office: 현재 새로운터를 찾는중입니다
 - :seedling: 개발한 프로젝트는 
 - :speech_balloon: 개발에 관련한 대화라면 뭐든 흥미롭게 듣습니다
 - :book: 개인 nas 서버를 통해 블로그 마이그레이션 중입니다

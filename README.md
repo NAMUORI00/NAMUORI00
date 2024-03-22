@@ -11,7 +11,7 @@ print('Hello, World');
   <a href="https://github.com/NAMUORI00/">
     <img src="https://komarev.com/ghpvc/?username=NAMUORI00" alt="page views" />
   </a>
-  <a href="https://namuori.net">
+  <a href="https://namuori00.github.io">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
   </a>
   <a href="https://github.com/NAMUORI00?tab=followers">

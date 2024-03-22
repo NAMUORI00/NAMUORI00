@@ -26,7 +26,7 @@ print('Hello, World');
 - :office: 현재는 새로운 일을 구하는 중 입니다
 - :seedling: 개발한 프로젝트는 
 - :speech_balloon: 개발에 관련한 대화라면 뭐든 흥미롭게 듣습니다
-- :book: 개인 nas 서버를 통해 블로그를 운영중입니다
+- :book: 개인 nas 서버를 통해 블로그 마이그레이션 중입니다
 - :mailbox: 이슈를 통해 언제든지 의견 나누어주세요
 
 <br>

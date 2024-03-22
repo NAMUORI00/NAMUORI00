@@ -1,7 +1,7 @@
 ### Hi  I'm Namuori00 👋
 
 안녕하세요 저는 나무오리(Kim Yu Seok) 입니다.
-풀스택을 지향하면서 다양한 언어를 다루고 목적에 맞는 프로그램을 만들어내는 것을 좋아합니다.
+풀스택을 지향하면서 다양한 언어를 다루고 목적에 맞는 프로그램을 만드는 것을 좋아합니다.
 
 [![NAMUORI00's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMUORI00&theme=gruvbox)](https://github.com/NAMUORI00/)
 

@@ -39,6 +39,18 @@ print('Hello, World');
 >
 > 그 외에도 다양한 기술을 사용해보고 접했지만 생략하겠습니다 
 
+<br>
+
+<h2 align="left" id="macropower-tech">근래 관심을 가지는 주제</h2>
+
+> Novel AI, RVC 등의 생성형 이미지 AI, 보이스 클로닝에 관심을 가지고 있습니다
+>
+> CivitiAI에서 안내중인 Lora, Lycoris 커스텀 이미지 모델 학습에 관심이 있습니다
+>
+> 허깅페이스에서 제공하는 이미지 배경제거, 수치 예측 프로젝트를 참고하여 간단한 토이프로젝트를 고민하고 있습니다.
+>
+> 로컬 LLM에 관심이 있습니다. (우바부가, LLM WebUI 위주) GPT-4o에 사용자지정 프롬프트에 관심이 있습니다.
+
 <table>
   <tr>
     <td align="center" width="96">

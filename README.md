@@ -44,45 +44,101 @@
 </div>
 
 ### Tech Playground
-<table align="center">
+<p align="center">
+  다양한 Awesome GitHub Profile의 카드 레이아웃을 참고해 실험 도메인별 스택을 매트릭스로 정리했습니다.
+</p>
+
+<table>
   <tr>
-    <th>웹 · 인터페이스</th>
-    <th>AI · 데이터</th>
-    <th>인프라 · DevOps</th>
+    <th align="left">Domain</th>
+    <th align="left">Stacks</th>
+    <th align="left">Use Cases</th>
+    <th align="left">Highlights</th>
   </tr>
   <tr>
+    <td><b>LLM · Agent Lab</b><br/><sub>로컬 모델 · MCP · Workflow Orchestration</sub></td>
     <td>
-      <div align="left" style="line-height:1.7; padding:8px 0;">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="28" style="vertical-align:middle; margin-right:6px;" />TypeScript · JavaScript<br/>
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="28" style="vertical-align:middle; margin-right:6px;" />React · Next.js<br/>
-        <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="28" style="vertical-align:middle; margin-right:6px;" />Vue · Nuxt<br/>
-        <img src="https://skillicons.dev/icons?i=astro" alt="Astro" width="28" style="vertical-align:middle; margin-right:6px;" />Astro · Vite<br/>
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="28" style="vertical-align:middle; margin-right:6px;" />Tailwind CSS · HTML/CSS
-      </div>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,flask&theme=dark" height="32" alt="python pytorch fastapi flask" />
+      <br/>
+      <img src="https://img.shields.io/badge/HuggingFace-FECC00?style=flat-square&logo=huggingface&logoColor=000" alt="HuggingFace" />
+      <img src="https://img.shields.io/badge/LangChain-0C0C0C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
     </td>
+    <td>DevContainer로 환경을 고정하고 LangChain·OpenAI·Gemini 스택을 엮어 Agentic 흐름을 실험합니다.</td>
     <td>
-      <div align="left" style="line-height:1.7; padding:8px 0;">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="28" style="vertical-align:middle; margin-right:6px;" />Python · Jupyter<br/>
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="28" style="vertical-align:middle; margin-right:6px;" />PyTorch · CUDA<br/>
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="28" style="vertical-align:middle; margin-right:6px;" />FastAPI · Flask<br/>
-        <img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face" width="28" style="vertical-align:middle; margin-right:6px;" />Hugging Face Hub<br/>
-        <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="28" style="vertical-align:middle; margin-right:6px;" />GraphQL · LangChain<br/>
-        <span style="display:inline-block; padding-left:34px;">Gemini · Claude · GPT · Llama 스택</span>
-      </div>
+      <a href="https://github.com/NAMUORI00/AI-Container-Suite">AI-Container-Suite</a><br/>
+      <a href="https://github.com/NAMUORI00/AI-RS">AI-RS</a><br/>
+      <a href="https://github.com/NAMUORI00/huggingface-tutorial">huggingface-tutorial</a>
     </td>
+  </tr>
+  <tr>
+    <td><b>Voice · Media Lab</b><br/><sub>음원 분리 · 실시간 변환 · OSC</sub></td>
     <td>
-      <div align="left" style="line-height:1.7; padding:8px 0;">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="28" style="vertical-align:middle; margin-right:6px;" />Docker · DevContainer<br/>
-        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="28" style="vertical-align:middle; margin-right:6px;" />Kubernetes · Helm<br/>
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="28" style="vertical-align:middle; margin-right:6px;" />AWS · Terraform<br/>
-        <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="28" style="vertical-align:middle; margin-right:6px;" />GitHub Actions · CI/CD<br/>
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="28" style="vertical-align:middle; margin-right:6px;" />PostgreSQL · Redis
-      </div>
+      <img src="https://skillicons.dev/icons?i=python,cs,cpp,opencv&theme=dark" height="32" alt="python csharp cpp opencv" />
+      <br/>
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+      <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+      <img src="https://img.shields.io/badge/Gradio-FF4F00?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
+    </td>
+    <td>CUDA · PyTorch 조합으로 음원 분리와 보이스 변환을 반복 실험하고, Gradio·OSC로 UI/UX를 붙입니다.</td>
+    <td>
+      <a href="https://github.com/NAMUORI00/Music-Source-Separation-Training">Music-Source-Separation-Training</a><br/>
+      <a href="https://github.com/NAMUORI00/MSST-WebUI">MSST-WebUI</a><br/>
+      <a href="https://github.com/NAMUORI00/OSC-SRTC">OSC-SRTC</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Interactive Web</b><br/><sub>데이터 시각화 · 인터랙티브 UI</sub></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts,js,vue,html,css,bootstrap&theme=dark" height="32" alt="ts js vue html css bootstrap" />
+      <br/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+    </td>
+    <td>Vue · Vite를 활용해 인터랙티브 웹 실험을 빠르게 프로토타이핑하고 데이터 시각화를 붙입니다.</td>
+    <td>
+      <a href="https://github.com/NAMUORI00/jsquiz-app">jsquiz-app</a><br/>
+      <a href="https://github.com/NAMUORI00/good-price-jeju">good-price-jeju</a><br/>
+      <a href="https://github.com/NAMUORI00/namecard">namecard</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Ops · DX Automation</b><br/><sub>인프라 자동화 · 실험 회전율</sub></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,bash,linux,vscode&theme=dark" height="32" alt="docker github actions aws bash linux vscode" />
+      <br/>
+      <img src="https://img.shields.io/badge/DevContainer-0E1117?style=flat-square&logo=visualstudiocode&logoColor=5C6BC0" alt="DevContainer" />
+      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+    </td>
+    <td>DevContainer + Docker 템플릿으로 재현 가능한 실험 환경을 만들고, Actions와 IaC로 반복 업무를 자동화합니다.</td>
+    <td>
+      <a href="https://github.com/NAMUORI00/aws-microservices">aws-microservices</a><br/>
+      <a href="https://github.com/NAMUORI00/docker-cloudflare-ddns">docker-cloudflare-ddns</a><br/>
+      <a href="https://github.com/NAMUORI00/my_commit_convention">my_commit_convention</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data · Knowledge Garden</b><br/><sub>데이터 파이프라인 · 기록 시스템</sub></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,redis,graphql,md,notion&theme=dark" height="32" alt="postgres redis graphql markdown notion" />
+      <br/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Bokeh-1A4870?style=flat-square&logo=bokeh&logoColor=white" alt="Bokeh" />
+      <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
+    </td>
+    <td>데이터 정리와 시각화를 연결하고, Digital Garden·Obsidian·Supabase로 지식과 실험 로그를 관리합니다.</td>
+    <td>
+      <a href="https://namuori00.github.io">Digital Garden</a><br/>
+      <a href="https://github.com/NAMUORI00/Blog">Blog</a><br/>
+      <a href="https://github.com/NAMUORI00/opensource-class">opensource-class</a>
     </td>
   </tr>
 </table>
+
 <p align="center">
-  DevContainer·Docker·GPU 최적화를 반복하며 각 도메인별 실험 스택을 다듬고 있습니다.
+  DevContainer·Docker·GPU 최적화를 반복하며 각 도메인을 넘나들고, 실험 메모는 <a href="https://namuori00.github.io">Digital Garden</a>에 차곡차곡 쌓고 있어요.
 </p>
 
 ### 🚀 What I'm Building

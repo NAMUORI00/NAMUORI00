@@ -18,44 +18,12 @@
   </a>
 </p>
 
-<p align="center">
-  <table>
-    <tr>
-      <td style="padding: 0 10px;">
-        <a href="https://github-profile-trophy.vercel.app/?username=NAMUORI00&theme=onedark&title=MultiLanguage&rank=SECRET,SSS,SS,S,AAA,AA,A">
-          <img width="135" src="https://github-profile-trophy.vercel.app/?username=NAMUORI00&theme=onedark&title=MultiLanguage&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="MultiLanguage trophy" />
-        </a>
-      </td>
-      <td style="padding: 0 10px;">
-        <a href="https://github-profile-trophy.vercel.app/?username=NAMUORI00&theme=onedark&title=Commit&rank=SECRET,SSS,SS,S,AAA,AA,A">
-          <img width="135" src="https://github-profile-trophy.vercel.app/?username=NAMUORI00&theme=onedark&title=Commit&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Commit trophy" />
-        </a>
-      </td>
-      <td style="padding: 0 10px;">
-        <a href="https://github-profile-trophy.vercel.app/?username=NAMUORI00&theme=onedark&title=PullRequest&rank=SECRET,SSS,SS,S,AAA,AA,A">
-          <img width="135" src="https://github-profile-trophy.vercel.app/?username=NAMUORI00&theme=onedark&title=PullRequest&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Pull Request trophy" />
-        </a>
-      </td>
-      <td style="padding: 0 10px;">
-        <a href="https://github-profile-trophy.vercel.app/?username=NAMUORI00&theme=onedark&title=Issues&rank=SECRET,SSS,SS,S,AAA,AA,A">
-          <img width="135" src="https://github-profile-trophy.vercel.app/?username=NAMUORI00&theme=onedark&title=Issues&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Issues trophy" />
-        </a>
-      </td>
-      <td style="padding: 0 10px;">
-        <a href="https://github-profile-trophy.vercel.app/?username=NAMUORI00&theme=onedark&title=Repositories&rank=SECRET,SSS,SS,S,AAA,AA,A">
-          <img width="135" src="https://github-profile-trophy.vercel.app/?username=NAMUORI00&theme=onedark&title=Repositories&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Repositories trophy" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
-
 </div>
 
 ---
 
 ### 현재 진행상황
-- 🔭 현재 38개의 공개 저장소에서 로컬 LLM, 음원 분리, Docker 기반 AI 인프라를 조심스럽게 실험하고 있습니다.
+- 🔭 여러 공개 저장소에서 로컬 LLM, 음원 분리, Docker 기반 AI 인프라를 꾸준히 실험하고 있습니다.
 - 🧪 새로운 프로젝트에서는 DevContainer, Hugging Face, CUDA 스택을 통합하여 재현 가능한 환경 구축에 집중하고 있습니다.
 - 🛰️ 관심있게 보고 있는 저장소들은 AI 에이전트·MCP 생태계, 인터랙티브 UI/데이터 시각화, 성능이 우수한 로컬 도구들을 중심으로 선별하고 있습니다.
 
@@ -171,11 +139,11 @@
 ### Language Pulse
 <p align="center">
   <a href="https://ionicabizau.github.io/github-profile-languages/?user=NAMUORI00" target="_blank" rel="noopener">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMUORI00&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="top 10 languages by repository size" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMUORI00&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="top languages by repository size" />
   </a>
 </p>
 <p align="center">
-  상위 10개 언어의 저장소 비중을 막대형 그래프로 확인하고, 링크된 실시간 대시보드에서 상세 변화를 탐색해 보세요.
+  주요 언어의 저장소 비중을 막대형 그래프로 확인하고, 링크된 실시간 대시보드에서 상세 변화를 탐색해 보세요.
 </p>
 
 ### 현재 관심 분야

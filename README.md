@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1d4ed8&text=Kim%20Yu%20Seok%20·%20NAMUORI00&fontColor=ffffff&fontAlign=50&fontSize=42&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:022c22,100:16a34a&text=Kim%20Yu%20Seok%20·%20NAMUORI00&fontColor=ffffff&fontAlign=50&fontSize=42&fontAlignY=35)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=520&lines=AI+Containerization+%26+Local+LLM+Explorer;Generative+Voice+%26+Agentic+Stack+Enthusiast;Playful+Experiments+for+Curious+People" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16A34A&center=true&vCenter=true&width=520&lines=AI+Containerization+%26+Local+LLM+Explorer;Generative+Voice+%26+Agentic+Stack+Enthusiast;Playful+Experiments+for+Curious+People" alt="typing intro" />
 
 <p align="center">
   안녕하세요! 컨테이너 기반 AI 실험과 음악 분리·LLM 프로젝트에 관심을 갖고 있는 나무오리라고 합니다.<br/>
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/NAMUORI00">
-    <img src="https://komarev.com/ghpvc/?username=NAMUORI00&style=for-the-badge&color=1d4ed8" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=NAMUORI00&style=for-the-badge&color=15803d" alt="profile views" />
   </a>
   <a href="https://github.com/NAMUORI00?tab=followers">
     <img src="https://img.shields.io/github/followers/NAMUORI00?style=for-the-badge&logo=github" alt="followers" />
@@ -33,7 +33,7 @@
     <img height="155" src="https://github-readme-stats.vercel.app/api?username=NAMUORI00&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img height="155" src="https://streak-stats.demolab.com?user=NAMUORI00&theme=tokyonight&hide_border=true" alt="streak stats" />
+    <img height="155" src="https://streak-stats.demolab.com?user=NAMUORI00&theme=green_nur&hide_border=true" alt="streak stats" />
   </a>
 </div>
 
@@ -41,6 +41,14 @@
   <a href="https://github.com/NAMUORI00">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAMUORI00&theme=github-compact&hide_border=true" alt="activity graph" />
   </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/NAMUORI00" title="지난 1년 간 커밋 잔디">
+    <img src="https://ghchart.rshah.org/15803d/NAMUORI00" alt="NAMUORI00's GitHub contribution chart" />
+  </a>
+  <br/>
+  <sub>지난 1년 간 커밋 잔디</sub>
 </div>
 
 ### Tech Playground

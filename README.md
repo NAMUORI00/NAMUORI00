@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header: Nature & Tech Theme -->
+<!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f4c3a&height=250&section=header&text=NAMUORI&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Nature%20%26%20Tech%20Developer&descAlignY=60&descAlign=50" width="100%" alt="header" />
 
 <br/>
@@ -11,7 +11,7 @@
 
 <br/>
 
-<!-- Portfolio Link (Highlighted) -->
+<!-- Portfolio Link -->
 <a href="https://namuori00.github.io/Introduce-CV-PAGE">
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0F4C3A?style=for-the-badge&logo=leaf&logoColor=white" alt="Portfolio" height="40"/>
 </a>
@@ -37,22 +37,21 @@
 
 <br/>
 
-<!-- Stats: Forest Theme -->
+<!-- Stats & Streak -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="155" src="https://github-readme-stats.vercel.app/api?username=NAMUORI00&show_icons=true&theme=forest&bg_color=0d1117&title_color=4caf50&icon_color=4caf50&text_color=c9d1d9&hide_border=true" alt="GitHub stats" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img height="155" src="https://streak-stats.demolab.com?user=NAMUORI00&theme=forest&background=0d1117&ring=4caf50&fire=4caf50&currStreakLabel=4caf50&hide_border=true" alt="streak stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=NAMUORI00&show_icons=true&theme=dark&bg_color=0d1117&title_color=4caf50&icon_color=4caf50&text_color=c9d1d9&hide_border=true" height="150" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=NAMUORI00&theme=dark&background=0d1117&ring=4caf50&fire=4caf50&currStreakLabel=4caf50&hide_border=true" height="150" alt="streak" />
 </div>
 
 <br/>
 
+<!-- Commit Grass (ghchart) - Green Theme -->
 <div align="center">
   <a href="https://github.com/NAMUORI00">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAMUORI00&theme=react-dark&hide_border=true&area=true&color=4caf50" alt="activity graph" />
+    <img src="https://ghchart.rshah.org/4caf50/NAMUORI00" alt="NAMUORI00's GitHub contribution chart" />
   </a>
+  <br/>
+  <sub>지난 1년 간 커밋 잔디</sub>
 </div>
 
 </div>
@@ -70,6 +69,11 @@
 | [Music-Source-Separation-Training](https://github.com/NAMUORI00/Music-Source-Separation-Training) | MDX23C · Demucs4HT · Hydra configs | 음원 분리 실험 파이프라인을 모듈화 |
 | [OSC-SRTC](https://github.com/NAMUORI00/OSC-SRTC) | OSC · Realtime Chat · WebSocket | VRChat 에이전트 UX와 실시간 상호작용 탐구 |
 | [CRUD](https://github.com/NAMUORI00/CRUD) | Spring Boot · JPA · PostgreSQL | 도메인 모델 정돈 & DevOps 자동화 준비 |
+
+<br/>
+
+<!-- Activity Graph (Moved to bottom of table) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NAMUORI00&theme=react-dark&hide_border=true&area=true&color=4caf50" alt="activity graph" />
 
 </div>
 
@@ -213,7 +217,7 @@
 ### Language Pulse
 <p align="center">
   <a href="https://ionicabizau.github.io/github-profile-languages/?user=NAMUORI00" target="_blank" rel="noopener">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMUORI00&layout=compact&langs_count=10&theme=forest&bg_color=0d1117&title_color=4caf50&text_color=c9d1d9&hide_border=true" alt="top languages by repository size" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMUORI00&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&title_color=4caf50&text_color=c9d1d9&hide_border=true" alt="top languages by repository size" />
   </a>
 </p>
 

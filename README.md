@@ -1,55 +1,79 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:022c22,100:16a34a&text=Kim%20Yu%20Seok%20·%20NAMUORI00&fontColor=ffffff&fontAlign=50&fontSize=42&fontAlignY=35)
+<!-- Header: Nature & Tech Theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f4c3a&height=250&section=header&text=NAMUORI&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Nature%20%26%20Tech%20Developer&descAlignY=60&descAlign=50" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16A34A&center=true&vCenter=true&width=520&lines=AI+Containerization+%26+Local+LLM+Explorer;Generative+Voice+%26+Agentic+Stack+Enthusiast;Playful+Experiments+for+Curious+People" alt="typing intro" />
+<br/>
+
+### 👋 Hello, World! I'm NamuOri.
+
+> **"코드로 숲을 가꾸듯, 꾸준히 성장하고 기록하는 개발자입니다."**
+
+<br/>
+
+<!-- Portfolio Link (Highlighted) -->
+<a href="https://namuori00.github.io/Introduce-CV-PAGE">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0F4C3A?style=for-the-badge&logo=leaf&logoColor=white" alt="Portfolio" height="40"/>
+</a>
+
+<br/><br/>
+
+<!-- Tech Stack -->
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+
+<br/><br/>
 
 <p align="center">
   안녕하세요! 컨테이너 기반 AI 실험과 음악 분리·LLM 프로젝트에 관심을 갖고 있는 나무오리라고 합니다.<br/>
   개발 워크플로우를 정리하고, 흥미로운 오픈소스를 수집하며, 실험 결과를 정중히 공유드리고 있습니다.
 </p>
 
-<p align="center">
+<br/>
+
+<!-- Stats: Forest Theme -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="155" src="https://github-readme-stats.vercel.app/api?username=NAMUORI00&show_icons=true&theme=forest&bg_color=0d1117&title_color=4caf50&icon_color=4caf50&text_color=c9d1d9&hide_border=true" alt="GitHub stats" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="155" src="https://streak-stats.demolab.com?user=NAMUORI00&theme=forest&background=0d1117&ring=4caf50&fire=4caf50&currStreakLabel=4caf50&hide_border=true" alt="streak stats" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://github.com/NAMUORI00">
-    <img src="https://komarev.com/ghpvc/?username=NAMUORI00&style=for-the-badge&color=15803d" alt="profile views" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAMUORI00&theme=react-dark&hide_border=true&area=true&color=4caf50" alt="activity graph" />
   </a>
-  <a href="https://github.com/NAMUORI00?tab=followers">
-    <img src="https://img.shields.io/github/followers/NAMUORI00?style=for-the-badge&logo=github" alt="followers" />
-  </a>
-</p>
+</div>
 
 </div>
+
+<br/>
 
 ---
 
-### 현재 진행상황
-- 🔭 여러 공개 저장소에서 로컬 LLM, 음원 분리, Docker 기반 AI 인프라를 꾸준히 실험하고 있습니다.
-- 🧪 새로운 프로젝트에서는 DevContainer, Hugging Face, CUDA 스택을 통합하여 재현 가능한 환경 구축에 집중하고 있습니다.
-- 🛰️ 관심있게 보고 있는 저장소들은 AI 에이전트·MCP 생태계, 인터랙티브 UI/데이터 시각화, 성능이 우수한 로컬 도구들을 중심으로 선별하고 있습니다.
-
-### GitHub Vibes
+### 🚀 What I'm Building
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="155" src="https://github-readme-stats.vercel.app/api?username=NAMUORI00&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img height="155" src="https://streak-stats.demolab.com?user=NAMUORI00&theme=green_nur&hide_border=true" alt="streak stats" />
-  </a>
+
+| Project | Core Stack | 지금 하는 일 |
+| --- | --- | --- |
+| [AI-Container-Suite](https://github.com/NAMUORI00/AI-Container-Suite) | CUDA · PyTorch 2.2 · DevContainer | 로컬 GPU 연구환경을 one-command로 재현 |
+| [Music-Source-Separation-Training](https://github.com/NAMUORI00/Music-Source-Separation-Training) | MDX23C · Demucs4HT · Hydra configs | 음원 분리 실험 파이프라인을 모듈화 |
+| [OSC-SRTC](https://github.com/NAMUORI00/OSC-SRTC) | OSC · Realtime Chat · WebSocket | VRChat 에이전트 UX와 실시간 상호작용 탐구 |
+| [CRUD](https://github.com/NAMUORI00/CRUD) | Spring Boot · JPA · PostgreSQL | 도메인 모델 정돈 & DevOps 자동화 준비 |
+
 </div>
 
-<div align="center">
-  <a href="https://github.com/NAMUORI00">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAMUORI00&theme=github-compact&hide_border=true" alt="activity graph" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/NAMUORI00" title="지난 1년 간 커밋 잔디">
-    <img src="https://ghchart.rshah.org/15803d/NAMUORI00" alt="NAMUORI00's GitHub contribution chart" />
-  </a>
-  <br/>
-  <sub>지난 1년 간 커밋 잔디</sub>
-</div>
+<br/>
 
 ### Tech Playground
 <p align="center">
@@ -145,23 +169,7 @@
   </tr>
 </table>
 
-<p align="center">
-  DevContainer·Docker·GPU 최적화를 반복하며 각 도메인을 넘나들고, 실험 메모는 <a href="https://namuori00.github.io">Digital Garden</a>에 차곡차곡 쌓고 있어요.
-</p>
-
-### 🚀 What I'm Building
-<div align="center">
-
-| Project | Core Stack | 지금 하는 일 |
-| --- | --- | --- |
-| [AI-Container-Suite](https://github.com/NAMUORI00/AI-Container-Suite) | CUDA · PyTorch 2.2 · DevContainer | 로컬 GPU 연구환경을 one-command로 재현 |
-| [Music-Source-Separation-Training](https://github.com/NAMUORI00/Music-Source-Separation-Training) | MDX23C · Demucs4HT · Hydra configs | 음원 분리 실험 파이프라인을 모듈화 |
-| [OSC-SRTC](https://github.com/NAMUORI00/OSC-SRTC) | OSC · Realtime Chat · WebSocket | VRChat 에이전트 UX와 실시간 상호작용 탐구 |
-| [CRUD](https://github.com/NAMUORI00/CRUD) | Spring Boot · JPA · PostgreSQL | 도메인 모델 정돈 & DevOps 자동화 준비 |
-
-</div>
-
-> 더 많은 실험은 <a href="https://github.com/NAMUORI00?tab=repositories">전체 저장소</a>에서 가볍게 둘러보실 수 있어요. (`good-price-jeju`, `music_splitter_project`, `jsquiz-app` 등)
+<br/>
 
 ### ⭐ 관심있게 보고 있는 저장소들
 <details>
@@ -200,29 +208,19 @@
   - [trycua/cua](https://github.com/trycua/cua) · 데스크톱 제어 AI를 위한 샌드박스/SDK.
 </details>
 
+<br/>
+
 ### Language Pulse
 <p align="center">
   <a href="https://ionicabizau.github.io/github-profile-languages/?user=NAMUORI00" target="_blank" rel="noopener">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMUORI00&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="top languages by repository size" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMUORI00&layout=compact&langs_count=10&theme=forest&bg_color=0d1117&title_color=4caf50&text_color=c9d1d9&hide_border=true" alt="top languages by repository size" />
   </a>
 </p>
-<p align="center">
-  주요 언어의 저장소 비중을 막대형 그래프로 확인하고, 링크된 실시간 대시보드에서 상세 변화를 탐색해 보세요.
-</p>
 
-### 현재 관심 분야
-- 🧬 생성형 AI: NovelAI, RVC, 로컬 LLM 챗봇을 통한 Prompt·Voice 파이프라인을 연구하고 있습니다.
-- 🧩 리버스 엔지니어링: VRChat OSC, PCIe DMA 취약점, 게임 애셋 복구 프로세스를 학습하고 있습니다.
-- 📚 지식 관리: 개인 웹 아카이브 · 블로그 형태로 지식을 정리하고 확장해나가고 있습니다.
+<br/>
 
 ### 연락 및 문의
 <p align="center">
   <a href="https://github.com/NAMUORI00/NAMUORI00/issues"><img src="https://img.shields.io/badge/GitHub%20Issues-언제든지%20환영합니다-22c55e?style=for-the-badge&logo=github" alt="contact" /></a>
   <a href="mailto:namuori00@namuori.net"><img src="https://img.shields.io/badge/Email-namuori00@namuori.net-38bdf8?style=for-the-badge&logo=minutemailer&logoColor=white" alt="email" /></a>
 </p>
-
-<div align="center">
-
-> "새로운 실험을 차근차근 진행하고, 의미있는 결과가 있으면 정중히 공유드린다"는 마음가짐으로 개발하고 있습니다. 협업 제안이나 흥미로운 아이디어가 있으시다면 언제든지 이슈로 말씀해주시면 감사하겠습니다!
-
-</div>

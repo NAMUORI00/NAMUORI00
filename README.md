@@ -125,7 +125,7 @@
 
 <div align="center">
   <a href="https://github.com/NAMUORI00">
-    <img src="https://github-readme-stats.vercel.app/api?username=NAMUORI00&show_icons=true&theme=dark&bg_color=0d1117&title_color=4caf50&icon_color=4caf50&text_color=c9d1d9&hide_border=true&count_private=true" height="160" alt="stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NAMUORI00&theme=github_dark" height="160" alt="stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/NAMUORI00">
@@ -137,7 +137,11 @@
 
 <div align="center">
   <a href="https://github.com/NAMUORI00">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMUORI00&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&title_color=4caf50&text_color=c9d1d9&hide_border=true" alt="top languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NAMUORI00&theme=github_dark" height="160" alt="top languages by repo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/NAMUORI00">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NAMUORI00&theme=github_dark" height="160" alt="top languages by commit" />
   </a>
 </div>
 

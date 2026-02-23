@@ -176,10 +176,10 @@
 <details>
   <summary><b>🧠 AI & Agentic Research</b></summary>
 
-  - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) ⭐ 2,619<br/><sub>Implementation of 17+ agentic architectures designed for practical use across...</sub>
-  - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) ⭐ 30,487<br/><sub>In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</sub>
+  - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) ⭐ 2,621<br/><sub>Implementation of 17+ agentic architectures designed for practical use across...</sub>
+  - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) ⭐ 30,489<br/><sub>In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</sub>
   - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) ⭐ 5,700<br/><sub>AI-powered reverse engineering assistant that bridges IDA Pro with language m...</sub>
-  - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) ⭐ 28,531<br/><sub>[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"</sub>
+  - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) ⭐ 28,533<br/><sub>[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"</sub>
 </details>
 
 <details>
@@ -187,7 +187,7 @@
 
   - [NateWeav/ReClass.NET-MCP](https://github.com/NateWeav/ReClass.NET-MCP) ⭐ 2<br/><sub>MCP for ReClass.NET</sub>
   - [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP) ⭐ 41<br/><sub>MCP extension for dnSpy.</sub>
-  - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) ⭐ 13,842<br/><sub>A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workf...</sub>
+  - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) ⭐ 13,843<br/><sub>A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workf...</sub>
   - [Jadis0x/Il2CppInspectorPro](https://github.com/Jadis0x/Il2CppInspectorPro) ⭐ 157<br/><sub>Continuation of Il2CppInspector - A powerful automated tool for reverse engin...</sub>
 </details>
 
@@ -201,7 +201,7 @@
 <details>
   <summary><b>🌐 Infra, Data & Viz</b></summary>
 
-  - [typst/typst](https://github.com/typst/typst) ⭐ 51,543<br/><sub>A markup-based typesetting system that is powerful and easy to learn.</sub>
+  - [typst/typst](https://github.com/typst/typst) ⭐ 51,544<br/><sub>A markup-based typesetting system that is powerful and easy to learn.</sub>
   - [terrastruct/d2](https://github.com/terrastruct/d2) ⭐ 23,099<br/><sub>D2 is a modern diagram scripting language that turns text to diagrams.</sub>
   - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐ 36,040<br/><sub>An open source collection of animated, interactive & fully customizable React...</sub>
   - [bokeh/bokeh](https://github.com/bokeh/bokeh) ⭐ 20,359<br/><sub>Interactive Data Visualization in the browser, from  Python</sub>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c3a,100:1a6b50&height=220&section=header&text=NAMUORI&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Edge%20Systems%20%C2%B7%20Media%20Engineering&descAlignY=58&descAlign=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c3a,100:1a6b50&height=220&section=header&text=NAMUORI&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Exploring%20Tech%20%C2%B7%20Building%20Experiments%20%C2%B7%20Sharing%20Records&descAlignY=58&descAlign=50" width="100%" alt="header" />
 
 <br/>
 
@@ -26,9 +26,10 @@
 <br/><br/>
 
 <p>
-  컨테이너 기반 AI 실험과 Edge-RAG 시스템을 연구하고 있습니다.<br/>
-  Python · C++ · CUDA 환경에서 LLM 추론 파이프라인을 구축하고,<br/>
-  Docker/DevContainer로 재현 가능한 실험 환경을 운영합니다.
+  Python · C++ · CUDA 기반 AI 실험부터 웹 프론트엔드까지,<br/>
+  관심 가는 기술이라면 직접 환경을 만들고 실험해보는 개발자입니다.<br/>
+  음원 분리 모델 학습, 엣지 환경 LLM 추론, 실시간 음성 변환, 데이터 시각화 등<br/>
+  다양한 도메인을 오가며 DevContainer와 Docker로 재현 가능한 실험 환경을 구축하고 있습니다.
 </p>
 
 </div>

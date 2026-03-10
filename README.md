@@ -176,42 +176,41 @@
 <details>
   <summary><b>🧠 AI & Agentic Research</b></summary>
 
-  - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) ⭐ 2,867<br/><sub>Implementation of 17+ agentic architectures designed for practical use across...</sub>
-  - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) ⭐ 31,508<br/><sub>In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</sub>
-  - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) ⭐ 6,128<br/><sub>AI-powered reverse engineering assistant that bridges IDA Pro with language m...</sub>
-  - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) ⭐ 29,098<br/><sub>[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"</sub>
+  - [steipete/oracle](https://github.com/steipete/oracle) ⭐ 1,623<br/><sub>Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and ...</sub>
+  - [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) ⭐ 524<br/><sub>Command Your AI Agent Empire from the CEO Desk — A local-first AI agent offic...</sub>
+  - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) ⭐ 2,878<br/><sub>Implementation of 17+ agentic architectures designed for practical use across...</sub>
+  - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) ⭐ 31,590<br/><sub>In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</sub>
 </details>
 
 <details>
   <summary><b>🛠️ MCP & Dev Automation</b></summary>
 
   - [NateWeav/ReClass.NET-MCP](https://github.com/NateWeav/ReClass.NET-MCP) ⭐ 2<br/><sub>MCP for ReClass.NET</sub>
-  - [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP) ⭐ 50<br/><sub>MCP extension for dnSpy.</sub>
-  - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) ⭐ 14,583<br/><sub>A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workf...</sub>
-  - [Jadis0x/Il2CppInspectorPro](https://github.com/Jadis0x/Il2CppInspectorPro) ⭐ 165<br/><sub>Continuation of Il2CppInspector - A powerful automated tool for reverse engin...</sub>
+  - [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP) ⭐ 52<br/><sub>MCP extension for dnSpy.</sub>
+  - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) ⭐ 14,723<br/><sub>A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workf...</sub>
 </details>
 
 <details>
   <summary><b>🎧 Voice, Media & Tools</b></summary>
 
   - [killkimno/MORT](https://github.com/killkimno/MORT) ⭐ 1,439<br/><sub>MORT 번역기 프로젝트 - Real-time game translator with OCR</sub>
-  - [BKSalman/ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) ⭐ 436<br/><sub>a very simple GUI for ytdlp written in Rust</sub>
+  - [BKSalman/ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) ⭐ 437<br/><sub>a very simple GUI for ytdlp written in Rust</sub>
 </details>
 
 <details>
   <summary><b>🌐 Infra, Data & Viz</b></summary>
 
-  - [typst/typst](https://github.com/typst/typst) ⭐ 51,905<br/><sub>A markup-based typesetting system that is powerful and easy to learn.</sub>
-  - [terrastruct/d2](https://github.com/terrastruct/d2) ⭐ 23,187<br/><sub>D2 is a modern diagram scripting language that turns text to diagrams.</sub>
-  - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐ 36,515<br/><sub>An open source collection of animated, interactive & fully customizable React...</sub>
+  - [typst/typst](https://github.com/typst/typst) ⭐ 51,973<br/><sub>A markup-based typesetting system that is powerful and easy to learn.</sub>
+  - [terrastruct/d2](https://github.com/terrastruct/d2) ⭐ 23,197<br/><sub>D2 is a modern diagram scripting language that turns text to diagrams.</sub>
+  - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐ 36,549<br/><sub>An open source collection of animated, interactive & fully customizable React...</sub>
   - [bokeh/bokeh](https://github.com/bokeh/bokeh) ⭐ 20,361<br/><sub>Interactive Data Visualization in the browser, from  Python</sub>
 </details>
 
 <details>
   <summary><b>💡 기타 관심사</b></summary>
 
-  - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) ⭐ 9,873<br/><sub>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</sub>
-  - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) ⭐ 3,265<br/><sub>An even funnier way to disable windows defender. (through WSC api)</sub>
+  - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) ⭐ 9,877<br/><sub>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</sub>
+  - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) ⭐ 3,269<br/><sub>An even funnier way to disable windows defender. (through WSC api)</sub>
 </details>
 <!-- END_SECTION:stars -->
 

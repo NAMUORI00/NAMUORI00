@@ -176,10 +176,10 @@
 <details>
   <summary><b>🧠 AI & Agentic Research</b></summary>
 
-  - [steipete/oracle](https://github.com/steipete/oracle) ⭐ 1,639<br/><sub>Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and ...</sub>
-  - [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) ⭐ 668<br/><sub>Command Your AI Agent Empire from the CEO Desk — A local-first AI agent offic...</sub>
-  - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) ⭐ 2,901<br/><sub>Implementation of 17+ agentic architectures designed for practical use across...</sub>
-  - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) ⭐ 31,934<br/><sub>In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</sub>
+  - [steipete/oracle](https://github.com/steipete/oracle) ⭐ 1,645<br/><sub>Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and ...</sub>
+  - [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) ⭐ 707<br/><sub>Command Your AI Agent Empire from the CEO Desk — A local-first AI agent offic...</sub>
+  - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) ⭐ 2,904<br/><sub>Implementation of 17+ agentic architectures designed for practical use across...</sub>
+  - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) ⭐ 32,017<br/><sub>In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</sub>
 </details>
 
 <details>
@@ -187,30 +187,30 @@
 
   - [NateWeav/ReClass.NET-MCP](https://github.com/NateWeav/ReClass.NET-MCP) ⭐ 2<br/><sub>MCP for ReClass.NET</sub>
   - [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP) ⭐ 55<br/><sub>MCP extension for dnSpy.</sub>
-  - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) ⭐ 15,072<br/><sub>A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workf...</sub>
+  - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) ⭐ 15,120<br/><sub>A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workf...</sub>
 </details>
 
 <details>
   <summary><b>🎧 Voice, Media & Tools</b></summary>
 
   - [killkimno/MORT](https://github.com/killkimno/MORT) ⭐ 1,444<br/><sub>MORT 번역기 프로젝트 - Real-time game translator with OCR</sub>
-  - [BKSalman/ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) ⭐ 437<br/><sub>a very simple GUI for ytdlp written in Rust</sub>
+  - [BKSalman/ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) ⭐ 438<br/><sub>a very simple GUI for ytdlp written in Rust</sub>
 </details>
 
 <details>
   <summary><b>🌐 Infra, Data & Viz</b></summary>
 
-  - [typst/typst](https://github.com/typst/typst) ⭐ 52,022<br/><sub>A markup-based typesetting system that is powerful and easy to learn.</sub>
-  - [terrastruct/d2](https://github.com/terrastruct/d2) ⭐ 23,227<br/><sub>D2 is a modern diagram scripting language that turns text to diagrams.</sub>
-  - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐ 36,707<br/><sub>An open source collection of animated, interactive & fully customizable React...</sub>
+  - [typst/typst](https://github.com/typst/typst) ⭐ 52,046<br/><sub>A markup-based typesetting system that is powerful and easy to learn.</sub>
+  - [terrastruct/d2](https://github.com/terrastruct/d2) ⭐ 23,230<br/><sub>D2 is a modern diagram scripting language that turns text to diagrams.</sub>
+  - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐ 36,745<br/><sub>An open source collection of animated, interactive & fully customizable React...</sub>
   - [bokeh/bokeh](https://github.com/bokeh/bokeh) ⭐ 20,366<br/><sub>Interactive Data Visualization in the browser, from  Python</sub>
 </details>
 
 <details>
   <summary><b>💡 기타 관심사</b></summary>
 
-  - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) ⭐ 9,905<br/><sub>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</sub>
-  - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) ⭐ 3,279<br/><sub>An even funnier way to disable windows defender. (through WSC api)</sub>
+  - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) ⭐ 9,910<br/><sub>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</sub>
+  - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) ⭐ 3,281<br/><sub>An even funnier way to disable windows defender. (through WSC api)</sub>
 </details>
 <!-- END_SECTION:stars -->
 

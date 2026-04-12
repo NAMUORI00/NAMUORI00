@@ -176,41 +176,41 @@
 <details>
   <summary><b>🧠 AI & Agentic Research</b></summary>
 
-  - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) ⭐ 1,150<br/><sub>Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using ...</sub>
-  - [steipete/oracle](https://github.com/steipete/oracle) ⭐ 1,836<br/><sub>Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and ...</sub>
-  - [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) ⭐ 1,055<br/><sub>Command Your AI Agent Empire from the CEO Desk — A local-first AI agent offic...</sub>
-  - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) ⭐ 3,021<br/><sub>Implementation of 17+ agentic architectures designed for practical use across...</sub>
+  - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) ⭐ 1,194<br/><sub>Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using ...</sub>
+  - [steipete/oracle](https://github.com/steipete/oracle) ⭐ 1,854<br/><sub>Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and ...</sub>
+  - [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) ⭐ 1,056<br/><sub>Command Your AI Agent Empire from the CEO Desk — A local-first AI agent offic...</sub>
+  - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) ⭐ 3,023<br/><sub>Implementation of 17+ agentic architectures designed for practical use across...</sub>
 </details>
 
 <details>
   <summary><b>🛠️ MCP & Dev Automation</b></summary>
 
-  - [NateWeav/ReClass.NET-MCP](https://github.com/NateWeav/ReClass.NET-MCP) ⭐ 10<br/><sub>MCP for ReClass.NET</sub>
-  - [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP) ⭐ 66<br/><sub>MCP extension for dnSpy.</sub>
-  - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) ⭐ 17,836<br/><sub>A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workf...</sub>
+  - [NateWeav/ReClass.NET-MCP](https://github.com/NateWeav/ReClass.NET-MCP) ⭐ 9<br/><sub>MCP for ReClass.NET</sub>
+  - [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP) ⭐ 67<br/><sub>MCP extension for dnSpy.</sub>
+  - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) ⭐ 17,877<br/><sub>A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workf...</sub>
 </details>
 
 <details>
   <summary><b>🎧 Voice, Media & Tools</b></summary>
 
-  - [killkimno/MORT](https://github.com/killkimno/MORT) ⭐ 1,474<br/><sub>MORT 번역기 프로젝트 - Real-time game translator with OCR</sub>
+  - [killkimno/MORT](https://github.com/killkimno/MORT) ⭐ 1,476<br/><sub>MORT 번역기 프로젝트 - Real-time game translator with OCR</sub>
   - [BKSalman/ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) ⭐ 442<br/><sub>a very simple GUI for ytdlp written in Rust</sub>
 </details>
 
 <details>
   <summary><b>🌐 Infra, Data & Viz</b></summary>
 
-  - [typst/typst](https://github.com/typst/typst) ⭐ 52,621<br/><sub>A markup-based typesetting system that is powerful and easy to learn.</sub>
-  - [terrastruct/d2](https://github.com/terrastruct/d2) ⭐ 23,393<br/><sub>D2 is a modern diagram scripting language that turns text to diagrams.</sub>
-  - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐ 37,803<br/><sub>An open source collection of animated, interactive & fully customizable React...</sub>
-  - [bokeh/bokeh](https://github.com/bokeh/bokeh) ⭐ 20,376<br/><sub>Interactive Data Visualization in the browser, from  Python</sub>
+  - [typst/typst](https://github.com/typst/typst) ⭐ 52,637<br/><sub>A markup-based typesetting system that is powerful and easy to learn.</sub>
+  - [terrastruct/d2](https://github.com/terrastruct/d2) ⭐ 23,398<br/><sub>D2 is a modern diagram scripting language that turns text to diagrams.</sub>
+  - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐ 37,845<br/><sub>An open source collection of animated, interactive & fully customizable React...</sub>
+  - [bokeh/bokeh](https://github.com/bokeh/bokeh) ⭐ 20,375<br/><sub>Interactive Data Visualization in the browser, from  Python</sub>
 </details>
 
 <details>
   <summary><b>💡 기타 관심사</b></summary>
 
-  - [p-e-w/heretic](https://github.com/p-e-w/heretic) ⭐ 18,995<br/><sub>Fully automatic censorship removal for language models</sub>
-  - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) ⭐ 10,067<br/><sub>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</sub>
+  - [p-e-w/heretic](https://github.com/p-e-w/heretic) ⭐ 19,042<br/><sub>Fully automatic censorship removal for language models</sub>
+  - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) ⭐ 10,068<br/><sub>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</sub>
 </details>
 <!-- END_SECTION:stars -->
 

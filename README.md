@@ -176,10 +176,10 @@
 <details>
   <summary><b>🧠 AI & Agentic Research</b></summary>
 
-  - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) ⭐ 1,286<br/><sub>Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using ...</sub>
-  - [steipete/oracle](https://github.com/steipete/oracle) ⭐ 1,920<br/><sub>Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and ...</sub>
-  - [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) ⭐ 1,079<br/><sub>Command Your AI Agent Empire from the CEO Desk — A local-first AI agent offic...</sub>
-  - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) ⭐ 3,035<br/><sub>Implementation of 17+ agentic architectures designed for practical use across...</sub>
+  - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) ⭐ 1,316<br/><sub>Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using ...</sub>
+  - [steipete/oracle](https://github.com/steipete/oracle) ⭐ 1,923<br/><sub>Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and ...</sub>
+  - [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) ⭐ 1,082<br/><sub>Command Your AI Agent Empire from the CEO Desk — A local-first AI agent offic...</sub>
+  - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) ⭐ 3,038<br/><sub>Implementation of 17+ agentic architectures designed for practical use across...</sub>
 </details>
 
 <details>
@@ -187,7 +187,7 @@
 
   - [NateWeav/ReClass.NET-MCP](https://github.com/NateWeav/ReClass.NET-MCP) ⭐ 10<br/><sub>MCP for ReClass.NET</sub>
   - [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP) ⭐ 67<br/><sub>MCP extension for dnSpy.</sub>
-  - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) ⭐ 18,201<br/><sub>A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workf...</sub>
+  - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) ⭐ 18,277<br/><sub>A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workf...</sub>
 </details>
 
 <details>
@@ -200,17 +200,17 @@
 <details>
   <summary><b>🌐 Infra, Data & Viz</b></summary>
 
-  - [typst/typst](https://github.com/typst/typst) ⭐ 52,754<br/><sub>A markup-based typesetting system that is powerful and easy to learn.</sub>
-  - [terrastruct/d2](https://github.com/terrastruct/d2) ⭐ 23,448<br/><sub>D2 is a modern diagram scripting language that turns text to diagrams.</sub>
-  - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐ 38,058<br/><sub>An open source collection of animated, interactive & fully customizable React...</sub>
-  - [bokeh/bokeh](https://github.com/bokeh/bokeh) ⭐ 20,379<br/><sub>Interactive Data Visualization in the browser, from  Python</sub>
+  - [typst/typst](https://github.com/typst/typst) ⭐ 52,780<br/><sub>A markup-based typesetting system that is powerful and easy to learn.</sub>
+  - [terrastruct/d2](https://github.com/terrastruct/d2) ⭐ 23,455<br/><sub>D2 is a modern diagram scripting language that turns text to diagrams.</sub>
+  - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐ 38,189<br/><sub>An open source collection of animated, interactive & fully customizable React...</sub>
+  - [bokeh/bokeh](https://github.com/bokeh/bokeh) ⭐ 20,380<br/><sub>Interactive Data Visualization in the browser, from  Python</sub>
 </details>
 
 <details>
   <summary><b>💡 기타 관심사</b></summary>
 
-  - [p-e-w/heretic](https://github.com/p-e-w/heretic) ⭐ 19,408<br/><sub>Fully automatic censorship removal for language models</sub>
-  - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) ⭐ 10,092<br/><sub>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</sub>
+  - [p-e-w/heretic](https://github.com/p-e-w/heretic) ⭐ 19,457<br/><sub>Fully automatic censorship removal for language models</sub>
+  - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) ⭐ 10,096<br/><sub>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</sub>
 </details>
 <!-- END_SECTION:stars -->
 

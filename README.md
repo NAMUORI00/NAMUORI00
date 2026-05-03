@@ -176,10 +176,10 @@
 <details>
   <summary><b>🧠 AI & Agentic Research</b></summary>
 
-  - [google-research/timesfm](https://github.com/google-research/timesfm) ⭐ 19,217<br/><sub>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation...</sub>
-  - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) ⭐ 1,400<br/><sub>Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using ...</sub>
-  - [steipete/oracle](https://github.com/steipete/oracle) ⭐ 2,164<br/><sub>Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and ...</sub>
-  - [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) ⭐ 1,121<br/><sub>Command Your AI Agent Empire from the CEO Desk — A local-first AI agent offic...</sub>
+  - [google-research/timesfm](https://github.com/google-research/timesfm) ⭐ 19,283<br/><sub>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation...</sub>
+  - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) ⭐ 1,403<br/><sub>Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using ...</sub>
+  - [steipete/oracle](https://github.com/steipete/oracle) ⭐ 2,173<br/><sub>Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and ...</sub>
+  - [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) ⭐ 1,122<br/><sub>Command Your AI Agent Empire from the CEO Desk — A local-first AI agent offic...</sub>
 </details>
 
 <details>
@@ -187,22 +187,22 @@
 
   - [NateWeav/ReClass.NET-MCP](https://github.com/NateWeav/ReClass.NET-MCP) ⭐ 12<br/><sub>MCP for ReClass.NET</sub>
   - [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP) ⭐ 89<br/><sub>MCP extension for dnSpy.</sub>
-  - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) ⭐ 18,961<br/><sub>A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workf...</sub>
+  - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) ⭐ 19,131<br/><sub>A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workf...</sub>
 </details>
 
 <details>
   <summary><b>🎧 Voice, Media & Tools</b></summary>
 
-  - [killkimno/MORT](https://github.com/killkimno/MORT) ⭐ 1,499<br/><sub>MORT 번역기 프로젝트 - Real-time game translator with OCR</sub>
+  - [killkimno/MORT](https://github.com/killkimno/MORT) ⭐ 1,500<br/><sub>MORT 번역기 프로젝트 - Real-time game translator with OCR</sub>
   - [BKSalman/ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) ⭐ 446<br/><sub>a very simple GUI for ytdlp written in Rust</sub>
 </details>
 
 <details>
   <summary><b>🌐 Infra, Data & Viz</b></summary>
 
-  - [typst/typst](https://github.com/typst/typst) ⭐ 53,226<br/><sub>A markup-based typesetting system that is powerful and easy to learn.</sub>
-  - [terrastruct/d2](https://github.com/terrastruct/d2) ⭐ 23,613<br/><sub>D2 is a modern diagram scripting language that turns text to diagrams.</sub>
-  - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐ 38,780<br/><sub>An open source collection of animated, interactive & fully customizable React...</sub>
+  - [typst/typst](https://github.com/typst/typst) ⭐ 53,246<br/><sub>A markup-based typesetting system that is powerful and easy to learn.</sub>
+  - [terrastruct/d2](https://github.com/terrastruct/d2) ⭐ 23,612<br/><sub>D2 is a modern diagram scripting language that turns text to diagrams.</sub>
+  - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐ 38,793<br/><sub>An open source collection of animated, interactive & fully customizable React...</sub>
   - [bokeh/bokeh](https://github.com/bokeh/bokeh) ⭐ 20,374<br/><sub>Interactive Data Visualization in the browser, from  Python</sub>
 </details>
 
@@ -210,8 +210,8 @@
   <summary><b>💡 기타 관심사</b></summary>
 
   - [JoCoding-Inc/Noosphere](https://github.com/JoCoding-Inc/Noosphere) ⭐ 9<br/><sub></sub>
-  - [p-e-w/heretic](https://github.com/p-e-w/heretic) ⭐ 20,330<br/><sub>Fully automatic censorship removal for language models</sub>
-  - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) ⭐ 10,165<br/><sub>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</sub>
+  - [p-e-w/heretic](https://github.com/p-e-w/heretic) ⭐ 20,385<br/><sub>Fully automatic censorship removal for language models</sub>
+  - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) ⭐ 10,170<br/><sub>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</sub>
 </details>
 <!-- END_SECTION:stars -->
 

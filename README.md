@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c3a,100:1a6b50&height=220&section=header&text=NAMUORI00&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Research%20Engineer%20%C2%B7%20CS%2FAI%20Graduate%20Student%20%C2%B7%20Automation%20Builder&descAlignY=58&descAlign=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c3a,100:1a6b50&height=220&section=header&text=NAMUORI00&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%2FRAG%20Researcher%20%C2%B7%20Automation%20Builder&descAlignY=58&descAlign=50" width="100%" alt="header" />
 
 <br/>
 
-### 학부 시절의 웹·시스템 개발부터 현재의 AI/RAG 연구와 경량 추론까지 이어 온 개발자입니다.
+### 웹 서비스와 시스템 개발, 인프라 자동화, AI/RAG·경량 추론까지 제품 개발과 연구 실험을 함께 다뤄 온 개발자입니다.
 
 <br/><br/>
 

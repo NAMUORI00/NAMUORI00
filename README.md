@@ -24,6 +24,30 @@
 ## 📊 GitHub Activity
 
 <div align="center">
+  <a href="https://github.com/NAMUORI00">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NAMUORI00&theme=github_dark" height="160" alt="stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/NAMUORI00">
+    <img src="https://streak-stats.demolab.com?user=NAMUORI00&theme=dark&background=0d1117&ring=4caf50&fire=4caf50&currStreakLabel=4caf50&sideLabels=c9d1d9&dates=555555&hide_border=true" height="160" alt="streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/NAMUORI00">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NAMUORI00&theme=github_dark" height="160" alt="top languages by repo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/NAMUORI00">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NAMUORI00&theme=github_dark" height="160" alt="top languages by commit" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAMUORI00&theme=react-dark&hide_border=true&area=true&color=4caf50&line=4caf50&point=ffffff" width="95%" alt="activity graph" />
 </div>
 

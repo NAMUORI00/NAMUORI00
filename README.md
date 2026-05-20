@@ -9,25 +9,15 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td align="left" width="620">
-      <a href="https://namuori.net">
-        <img src="https://img.shields.io/badge/Portfolio-namuori.net-0F4C3A?style=for-the-badge&logo=googlechrome&logoColor=white" height="36" alt="Portfolio" />
-      </a>
-      <br/><br/>
-      <b>Portfolio Hub</b>
-      <br/>
-      <sub>AI/RAG 연구, 인프라 자동화, 웹·시스템 개발 프로젝트를 한곳에서 확인할 수 있습니다.</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://namuori.net">
+  <img src="./img/portfolio-card.png" width="760" alt="Portfolio Hub - namuori.net" />
+</a>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <a href="https://github.com/NAMUORI00">

@@ -13,7 +13,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./img/portfolio-card-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./img/portfolio-card-light.svg" />
-    <img src="./img/portfolio-card-light.svg" width="760" alt="포트폴리오 보러가기 - View portfolio at namuori.net" />
+    <img src="./img/portfolio-card-light.svg" width="760" alt="포트폴리오 보기 - View portfolio at namuori.net" />
   </picture>
 </a>
 

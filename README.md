@@ -5,7 +5,7 @@
 
 <br/>
 
-### 웹 서비스와 시스템 개발, 인프라 자동화, AI/RAG·경량 추론까지 제품 개발과 연구 실험을 함께 다뤄 온 개발자입니다.
+### 공개·비공개 프로젝트 전반에서 웹 서비스, 시스템 개발, 인프라 자동화, AI/RAG·경량 추론까지 폭넓게 다뤄 온 개발자입니다.
 
 <br/><br/>
 
@@ -22,40 +22,6 @@
 <br/>
 
 ## 📊 GitHub Activity
-
-<div align="center">
-  <a href="https://github.com/NAMUORI00">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NAMUORI00&theme=github_dark" height="160" alt="stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/NAMUORI00">
-    <img src="https://streak-stats.demolab.com?user=NAMUORI00&theme=dark&background=0d1117&ring=4caf50&fire=4caf50&currStreakLabel=4caf50&sideLabels=c9d1d9&dates=555555&hide_border=true" height="160" alt="streak" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/NAMUORI00">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NAMUORI00&theme=github_dark" height="160" alt="top languages by repo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/NAMUORI00">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NAMUORI00&theme=github_dark" height="160" alt="top languages by commit" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/NAMUORI00">
-    <img src="https://ghchart.rshah.org/4caf50/NAMUORI00" alt="contribution chart" width="90%" />
-  </a>
-  <br/>
-  <sub>지난 1년 간 커밋 잔디</sub>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAMUORI00&theme=react-dark&hide_border=true&area=true&color=4caf50&line=4caf50&point=ffffff" width="95%" alt="activity graph" />

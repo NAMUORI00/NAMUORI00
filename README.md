@@ -69,7 +69,7 @@
 
 ## Tech Stack
 
-<details>
+<details open>
   <summary><strong>Experience Stack</strong> - Python · TypeScript · AI/RAG · MCP</summary>
 
   <br/>

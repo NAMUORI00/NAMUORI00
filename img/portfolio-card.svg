@@ -1,6 +1,6 @@
 <svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">포트폴리오 보기</title>
-  <desc id="desc">Selected projects and research work</desc>
+  <title id="title">About Me</title>
+  <desc id="desc">Profile · Work · Research</desc>
   <defs>
     <linearGradient id="base" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0f4c3a"/>
@@ -31,12 +31,12 @@
   <circle cx="112" cy="286" r="4" fill="#74c69d"/>
   <circle cx="720" cy="250" r="4" fill="#74c69d"/>
 
-  <text x="112" y="126" fill="#a7b0a4" font-size="21" font-weight="700" letter-spacing="4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">PORTFOLIO</text>
-  <text x="112" y="206" fill="#f0eee8" font-size="62" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif">포트폴리오 보기</text>
-  <text x="116" y="256" fill="#d8f7ea" font-size="27" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Selected projects and research work</text>
+  <text x="112" y="128" fill="#a7b0a4" font-size="20" font-weight="700" letter-spacing="4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">ABOUT ME</text>
+  <text x="112" y="198" fill="#f0eee8" font-size="54" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif">About Me</text>
+  <text x="116" y="244" fill="#d8f7ea" font-size="25" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Profile · Work · Research</text>
 
-  <rect x="112" y="306" width="222" height="50" rx="8" fill="none" stroke="#74c69d" stroke-width="2"/>
-  <text x="145" y="338" fill="#74c69d" font-size="22" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Open Portfolio</text>
+  <rect x="112" y="294" width="158" height="48" rx="8" fill="none" stroke="#74c69d" stroke-width="2"/>
+  <text x="143" y="326" fill="#74c69d" font-size="21" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">View Page</text>
 
   <g fill="none" stroke="#1a6b50" stroke-width="3" stroke-linecap="round" opacity="0.68">
     <path d="M800 210C862 210 894 124 960 124"/>

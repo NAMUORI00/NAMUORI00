@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://namuori.net">
-  <img src="./img/portfolio-card.svg" width="760" alt="포트폴리오 보기 - View portfolio at namuori.net" />
+  <img src="./img/portfolio-card.svg" width="760" alt="About Me - Profile, Work, Research at namuori.net" />
 </a>
 
 </div>

@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c3a,100:1a6b50&height=220&section=header&text=NAMUORI00&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GitHub%20Activity%20%C2%B7%20Research%20Signals%20%C2%B7%20Open%20Experiments&descAlignY=58&descAlign=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c3a,100:1a6b50&height=220&section=header&text=NAMUORI00&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Research%20Engineer%20%C2%B7%20CS%2FAI%20Graduate%20Student%20%C2%B7%20Automation%20Builder&descAlignY=58&descAlign=50" width="100%" alt="header" />
 
 <br/>
 
-### AI/RAG, 경량 추론, 자동화 실험을 꾸준히 기록하는 개발자 김유석입니다.
+### AI/RAG와 경량 추론, 자동화 실험을 기록하는 개발자입니다.
 
 <br/><br/>
 

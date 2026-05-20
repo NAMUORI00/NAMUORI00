@@ -10,7 +10,8 @@
 <br/>
 
 <a href="https://namuori.net">
-  <img src="./img/portfolio-card.png" width="760" alt="Portfolio Hub - namuori.net" />
+  <img src="./img/portfolio-card-dark.svg#gh-dark-mode-only" width="760" alt="포트폴리오 보러가기 - View portfolio at namuori.net" />
+  <img src="./img/portfolio-card-light.svg#gh-light-mode-only" width="760" alt="포트폴리오 보러가기 - View portfolio at namuori.net" />
 </a>
 
 </div>

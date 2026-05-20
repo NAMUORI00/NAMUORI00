@@ -5,7 +5,7 @@
 
 <br/>
 
-### AI/RAG와 경량 추론, 자동화 실험을 기록하는 개발자입니다.
+### 학부 시절의 웹·시스템 개발부터 현재의 AI/RAG 연구와 경량 추론까지 이어 온 개발자입니다.
 
 <br/><br/>
 
@@ -20,19 +20,6 @@
 </div>
 
 <br/>
-
----
-
-## 🔭 Current GitHub Focus
-
-- **Edge LLM inference**: llama.cpp, Qwen 계열 모델, 양자화, 경량 추론 환경 실험
-- **RAG & agent workflows**: 문서 수집, 벡터 검색, MCP, 에이전트 협업 루프 설계
-- **Reproducible AI labs**: DevContainer, Docker, CUDA 기반 재현 가능한 실험 환경
-- **Voice & media research**: 음원 분리, 보이스 변환, 실시간 오디오 도구 탐색
-- **Home infra automation**: Cloudflare, reverse proxy, GitHub Actions, 홈서버 운영 자동화
-- **Knowledge tooling**: Obsidian, Typst, D2, 데이터 시각화와 연구 기록 워크플로우
-
----
 
 ## 📊 GitHub Activity
 

@@ -51,6 +51,22 @@
 
 <br/>
 
+<div align="center">
+
+### Open Collaboration
+
+<a href="https://github.com/NAMUORI00/NAMUORI00/issues">
+  <img src="https://img.shields.io/badge/GitHub%20Issues-Profile%20Feedback-22c55e?style=for-the-badge&logo=github" alt="profile feedback" />
+</a>
+&nbsp;
+<a href="mailto:namuori00@namuori.net">
+  <img src="https://img.shields.io/badge/Email-namuori00@namuori.net-38bdf8?style=for-the-badge&logo=minutemailer&logoColor=white" alt="email" />
+</a>
+
+</div>
+
+<br/>
+
 ## Tech Stack
 
 <details>
@@ -124,18 +140,6 @@
 <br/>
 
 <div align="center">
-
-### Open Collaboration
-
-<a href="https://github.com/NAMUORI00/NAMUORI00/issues">
-  <img src="https://img.shields.io/badge/GitHub%20Issues-Profile%20Feedback-22c55e?style=for-the-badge&logo=github" alt="profile feedback" />
-</a>
-&nbsp;
-<a href="mailto:namuori00@namuori.net">
-  <img src="https://img.shields.io/badge/Email-namuori00@namuori.net-38bdf8?style=for-the-badge&logo=minutemailer&logoColor=white" alt="email" />
-</a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c3a,100:1a6b50&height=120&section=footer" width="100%" alt="footer" />
 

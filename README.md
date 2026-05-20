@@ -54,7 +54,7 @@
 ## Tech Stack
 
 <details>
-  <summary><strong>Experience Stack</strong> - Python · TypeScript · AI/RAG · Docker</summary>
+  <summary><strong>Experience Stack</strong> - Python · TypeScript · AI/RAG · MCP</summary>
 
   <br/>
 
@@ -93,34 +93,28 @@
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/MediaMTX-263238?style=flat-square" alt="MediaMTX" />
-</details>
 
-<details>
-  <summary><strong>Interest Stack</strong> - MCP · AI Agents · GraphRAG · Local LLM</summary>
-
-  <br/>
-
-  - **Agentic AI**<br/>
+  - **AI Agents / MCP**<br/>
     <img src="https://img.shields.io/badge/MCP-111827?style=flat-square" alt="MCP" />
     <img src="https://img.shields.io/badge/AI%20Agents-0F4C3A?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
     <img src="https://img.shields.io/badge/Agentic%20Workflow-1F6FEB?style=flat-square" alt="Agentic Workflow" />
     <img src="https://img.shields.io/badge/Computer%20Use-374151?style=flat-square" alt="Computer Use" />
 
-  - **Retrieval / Knowledge**<br/>
+  - **Retrieval / Local LLM**<br/>
     <img src="https://img.shields.io/badge/GraphRAG-2E7D32?style=flat-square" alt="GraphRAG" />
     <img src="https://img.shields.io/badge/Vector%20Database-00897B?style=flat-square" alt="Vector Database" />
     <img src="https://img.shields.io/badge/Knowledge%20Graph-6A1B9A?style=flat-square" alt="Knowledge Graph" />
     <img src="https://img.shields.io/badge/Local%20LLM-111111?style=flat-square&logo=ollama&logoColor=white" alt="Local LLM" />
     <img src="https://img.shields.io/badge/LLM%20Inference-3949AB?style=flat-square" alt="LLM Inference" />
 
-  - **Platform / Product**<br/>
+  - **Platform / Product Automation**<br/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
     <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
     <img src="https://img.shields.io/badge/Workflow%20Automation-FF6D00?style=flat-square&logo=n8n&logoColor=white" alt="Workflow Automation" />
     <img src="https://img.shields.io/badge/Data%20Visualization-F9A03C?style=flat-square&logo=grafana&logoColor=white" alt="Data Visualization" />
 
-  - **Research Adjacency**<br/>
+  - **Research / Systems**<br/>
     <img src="https://img.shields.io/badge/OCR%20%2F%20Document%20AI-1565C0?style=flat-square" alt="OCR and Document AI" />
     <img src="https://img.shields.io/badge/Computer%20Vision-5E35B1?style=flat-square" alt="Computer Vision" />
     <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />

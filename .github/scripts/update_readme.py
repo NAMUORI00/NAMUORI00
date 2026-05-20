@@ -3,21 +3,21 @@ import requests
 import re
 
 CATEGORIES = {
-    "🧠 AI & Agentic Research": [
+    "🧠 AI, LLM & Agentic Research": [
         "ai", "llm", "agent", "researcher", "scientist", "machine-learning",
         "deep-learning", "rag", "langchain", "openai", "huggingface",
         "pytorch", "transformer", "gpt", "gemini", "agentic",
     ],
-    "🛠️ MCP & Dev Automation": [
+    "🛠️ MCP, DevTools & Automation": [
         "mcp", "workflow", "automation", "n8n", "figma", "blender",
         "unity", "task-manager",
     ],
-    "🎧 Voice, Media & Tools": [
+    "🎧 Voice, Media & Interactive Tools": [
         "voice", "audio", "music", "spleeter", "demucs", "osc",
         "vrchat", "whisper", "tts", "stt", "ytdlp", "mort",
         "media", "ffmpeg", "video",
     ],
-    "🌐 Infra, Data & Viz": [
+    "🌐 Infra, Knowledge & Data Viz": [
         "supabase", "grafana", "bokeh", "react", "chart", "diagram",
         "visualization", "docker", "kubernetes", "terraform",
         "obsidian", "quartz", "note", "typst",
@@ -31,7 +31,7 @@ def categorize(repo):
         for kw in keywords:
             if kw in text:
                 return cat
-    return "💡 기타 관심사"
+    return "💡 Other Signals"
 
 def main():
     token = os.environ.get("GITHUB_TOKEN")
@@ -57,7 +57,7 @@ def main():
     # Build markdown
     lines = []
     # Define category order
-    cat_order = list(CATEGORIES.keys()) + ["💡 기타 관심사"]
+    cat_order = list(CATEGORIES.keys()) + ["💡 Other Signals"]
     for cat in cat_order:
         repos = grouped.get(cat, [])
         if not repos:
@@ -94,7 +94,7 @@ def main():
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(new_content)
 
-    print(f"✅ Updated stars section with {len(stars)} repos in {len(grouped)} categories.")
+    print(f"Updated stars section with {len(stars)} repos in {len(grouped)} categories.")
 
 if __name__ == "__main__":
     main()

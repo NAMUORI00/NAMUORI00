@@ -1,36 +1,24 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c3a,100:1a6b50&height=220&section=header&text=NAMUORI&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Exploring%20Tech%20%C2%B7%20Building%20Experiments%20%C2%B7%20Sharing%20Records&descAlignY=58&descAlign=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c3a,100:1a6b50&height=220&section=header&text=NAMUORI00&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GitHub%20Activity%20%C2%B7%20Research%20Signals%20%C2%B7%20Open%20Experiments&descAlignY=58&descAlign=50" width="100%" alt="header" />
 
 <br/>
 
-### 👋 Hello, World! I'm NamuOri.
+### GitHub에서만 보이는 활동과 관심사를 기록합니다.
 
-> **"코드로 숲을 가꾸듯, 꾸준히 성장하고 기록하는 개발자입니다."**
-
-<br/>
-
-<a href="https://namuori00.github.io/Introduce-CV-PAGE">
-  <img src="https://img.shields.io/badge/Portfolio-0F4C3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://namuori.net">
-  <img src="https://img.shields.io/badge/Blog-1a6b50?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
-</a>
-&nbsp;
-<a href="mailto:namuori00@namuori.net">
-  <img src="https://img.shields.io/badge/Email-38bdf8?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
-</a>
+정리된 포트폴리오와 이력은 <b>namuori.net</b>에 두고,<br/>
+이곳에는 GitHub 활동, 오픈소스 관심사, 실험 흐름을 가볍게 관리합니다.
 
 <br/><br/>
 
-<p>
-  Python · C++ · CUDA 기반 AI 실험부터 웹 프론트엔드까지,<br/>
-  관심 가는 기술이라면 직접 환경을 만들고 실험해보는 개발자입니다.<br/>
-  음원 분리 모델 학습, 엣지 환경 LLM 추론, 실시간 음성 변환, 데이터 시각화 등<br/>
-  다양한 도메인을 오가며 DevContainer와 Docker로 재현 가능한 실험 환경을 구축하고 있습니다.
-</p>
+<a href="https://namuori.net">
+  <img src="https://img.shields.io/badge/Portfolio-namuori.net-0F4C3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="mailto:namuori00@namuori.net">
+  <img src="https://img.shields.io/badge/Email-namuori00@namuori.net-38bdf8?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
@@ -38,91 +26,28 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🔭 Current GitHub Focus
 
-### Core Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-</p>
-
-### AI / ML / LLM
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FECC00?style=for-the-badge&logo=huggingface&logoColor=000"/>
-  <img src="https://img.shields.io/badge/LangChain-0C0C0C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logoColor=white"/>
-</p>
-
-<details>
-  <summary><b>주요 경험 영역</b></summary>
-
-  - Edge 환경 경량 LLM 추론 (llama.cpp, Qwen3, 양자화)
-  - RAG 파이프라인 설계 (Document Ingest → Vector DB → Retrieval → Generation)
-  - 음원 분리 모델 학습 (MDX23C, Demucs4HT, Hydra configs)
-  - 보이스 변환 실험 (RVC, Applio, Gradio UI)
-  - MCP(Model Context Protocol) 기반 에이전트 워크플로우
-</details>
-
-### Infrastructure & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevContainer-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
-<details>
-  <summary><b>주요 경험 영역</b></summary>
-
-  - DevContainer + Docker Compose 기반 재현 가능한 GPU 실험 환경
-  - GitHub Actions CI/CD 파이프라인 설계 및 자동화
-  - AWS EC2/S3/ECS 기반 서비스 배포
-  - Cloudflare DDNS + 리버스 프록시 홈서버 운영
-  - MediaMTX 스트리밍 서버 구축 자동화
-</details>
-
-### Web & Frontend
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
-
-### Data & Backend
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qdrant-FF6B6B?style=for-the-badge&logoColor=white"/>
-</p>
-
-### Tools & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-</p>
-
-<br/>
+- **Edge LLM inference**: llama.cpp, Qwen 계열 모델, 양자화, 경량 추론 환경 실험
+- **RAG & agent workflows**: 문서 수집, 벡터 검색, MCP, 에이전트 협업 루프 설계
+- **Reproducible AI labs**: DevContainer, Docker, CUDA 기반 재현 가능한 실험 환경
+- **Voice & media research**: 음원 분리, 보이스 변환, 실시간 오디오 도구 탐색
+- **Home infra automation**: Cloudflare, reverse proxy, GitHub Actions, 홈서버 운영 자동화
+- **Knowledge tooling**: Obsidian, Typst, D2, 데이터 시각화와 연구 기록 워크플로우
 
 ---
 
-## 📊 GitHub Stats
+## 🧭 Profile Scope
+
+이 README는 배포형 포트폴리오를 반복하지 않습니다.
+
+- 포트폴리오에 들어갈 내용: 정돈된 소개, 대표 프로젝트, 이력, 상세 기술 스택
+- GitHub 프로필에 남길 내용: 활동 지표, 최근 관심 저장소, 실험 주제, 협업 입구
+- 자동 관리 대상: 아래 starred repository 섹션은 GitHub Actions로 주기적으로 갱신
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
   <a href="https://github.com/NAMUORI00">
@@ -166,47 +91,47 @@
 
 ---
 
-## ⭐ 최근 관심있게 살펴본 저장소들
+## ⭐ Recently Starred / Watching
 
 <p align="center">
-  <sub>🤖 GitHub Actions를 통해 매일 최신 Star 트렌드가 자동으로 업데이트됩니다.</sub>
+  <sub>GitHub Actions가 최근 starred repository를 관심 영역별로 자동 갱신합니다.</sub>
 </p>
 
 <!-- START_SECTION:stars -->
 <details>
-  <summary><b>🧠 AI & Agentic Research</b></summary>
+  <summary><b>🧠 AI, LLM & Agentic Research</b></summary>
 
   - [Lykhoyda/ask-llm](https://github.com/Lykhoyda/ask-llm) ⭐ 10<br/><sub>MCP server for AI-to-AI collaboration — bridge Claude with Gemini, Codex, and...</sub>
-  - [google-research/timesfm](https://github.com/google-research/timesfm) ⭐ 19,856<br/><sub>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation...</sub>
-  - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) ⭐ 1,442<br/><sub>Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using ...</sub>
+  - [google-research/timesfm](https://github.com/google-research/timesfm) ⭐ 19,857<br/><sub>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation...</sub>
+  - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) ⭐ 1,443<br/><sub>Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using ...</sub>
   - [steipete/oracle](https://github.com/steipete/oracle) ⭐ 2,303<br/><sub>Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and ...</sub>
 </details>
 
 <details>
-  <summary><b>🛠️ MCP & Dev Automation</b></summary>
+  <summary><b>🛠️ MCP, DevTools & Automation</b></summary>
 
   - [NateWeav/ReClass.NET-MCP](https://github.com/NateWeav/ReClass.NET-MCP) ⭐ 12<br/><sub>MCP for ReClass.NET</sub>
   - [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP) ⭐ 102<br/><sub>MCP extension for dnSpy.</sub>
 </details>
 
 <details>
-  <summary><b>🎧 Voice, Media & Tools</b></summary>
+  <summary><b>🎧 Voice, Media & Interactive Tools</b></summary>
 
   - [killkimno/MORT](https://github.com/killkimno/MORT) ⭐ 1,537<br/><sub>MORT 번역기 프로젝트 - Real-time game translator with OCR</sub>
   - [BKSalman/ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) ⭐ 454<br/><sub>a very simple GUI for ytdlp written in Rust</sub>
 </details>
 
 <details>
-  <summary><b>🌐 Infra, Data & Viz</b></summary>
+  <summary><b>🌐 Infra, Knowledge & Data Viz</b></summary>
 
   - [typst/typst](https://github.com/typst/typst) ⭐ 53,631<br/><sub>A markup-based typesetting system that is powerful and easy to learn.</sub>
   - [terrastruct/d2](https://github.com/terrastruct/d2) ⭐ 23,720<br/><sub>D2 is a modern diagram scripting language that turns text to diagrams.</sub>
-  - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐ 39,736<br/><sub>An open source collection of animated, interactive & fully customizable React...</sub>
+  - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐ 39,737<br/><sub>An open source collection of animated, interactive & fully customizable React...</sub>
   - [bokeh/bokeh](https://github.com/bokeh/bokeh) ⭐ 20,382<br/><sub>Interactive Data Visualization in the browser, from  Python</sub>
 </details>
 
 <details>
-  <summary><b>💡 기타 관심사</b></summary>
+  <summary><b>💡 Other Signals</b></summary>
 
   - [JoCoding-Inc/Noosphere](https://github.com/JoCoding-Inc/Noosphere) ⭐ 10<br/><sub></sub>
   - [p-e-w/heretic](https://github.com/p-e-w/heretic) ⭐ 21,075<br/><sub>Fully automatic censorship removal for language models</sub>
@@ -220,10 +145,10 @@
 
 <div align="center">
 
-### 📬 Contact
+### Open Collaboration
 
 <a href="https://github.com/NAMUORI00/NAMUORI00/issues">
-  <img src="https://img.shields.io/badge/GitHub%20Issues-언제든지%20환영합니다-22c55e?style=for-the-badge&logo=github" alt="contact" />
+  <img src="https://img.shields.io/badge/GitHub%20Issues-Profile%20Feedback-22c55e?style=for-the-badge&logo=github" alt="profile feedback" />
 </a>
 &nbsp;
 <a href="mailto:namuori00@namuori.net">

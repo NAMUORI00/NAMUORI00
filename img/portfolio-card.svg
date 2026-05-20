@@ -12,7 +12,7 @@
     </linearGradient>
     <linearGradient id="line" x1="110" y1="120" x2="1130" y2="300" gradientUnits="userSpaceOnUse">
       <stop stop-color="#1a6b50"/>
-      <stop offset="1" stop-color="#f3fff9"/>
+      <stop offset="1" stop-color="#74c69d"/>
     </linearGradient>
     <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
       <path d="M 42 0 H 0 V 42" stroke="#1a6b50" stroke-width="1"/>
@@ -23,20 +23,45 @@
   <rect x="16" y="16" width="1248" height="388" rx="28" fill="url(#grid)" opacity="0.16"/>
   <rect x="16" y="16" width="1248" height="388" rx="28" stroke="#1a6b50" stroke-width="2"/>
 
-  <path d="M16 92C194 34 330 44 520 84C711 124 864 129 1264 55V16H16V92Z" fill="#1a6b50" opacity="0.34"/>
-  <path d="M16 328C216 376 378 365 582 330C802 292 970 294 1264 354V404H16V328Z" fill="#1a6b50" opacity="0.28"/>
+  <path d="M16 92C194 34 330 44 520 84C711 124 864 129 1264 55V16H16V92Z" fill="#1a6b50" opacity="0.24"/>
+  <path d="M16 328C216 376 378 365 582 330C802 292 970 294 1264 354V404H16V328Z" fill="#1a6b50" opacity="0.32"/>
 
-  <rect x="74" y="74" width="728" height="270" rx="24" fill="url(#panel)" opacity="0.74" stroke="#1a6b50"/>
-  <path d="M108 286H504C566 286 579 246 638 246H1018" stroke="url(#line)" stroke-opacity="0.68" stroke-width="3"/>
-  <circle cx="108" cy="286" r="5" fill="#f3fff9"/>
-  <circle cx="1018" cy="246" r="5" fill="#f3fff9"/>
+  <rect x="72" y="66" width="620" height="288" rx="20" fill="url(#panel)" opacity="0.78" stroke="#1a6b50"/>
+  <path d="M112 286H462C522 286 542 250 602 250H720" stroke="url(#line)" stroke-opacity="0.46" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="112" cy="286" r="4" fill="#74c69d"/>
+  <circle cx="720" cy="250" r="4" fill="#74c69d"/>
 
-  <text x="116" y="134" fill="#d8f7ea" font-size="28" font-weight="700" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Portfolio</text>
-  <text x="116" y="218" fill="#ffffff" font-size="64" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif">포트폴리오 보기</text>
-  <text x="120" y="268" fill="#d8f7ea" font-size="28" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Selected projects and research work</text>
+  <text x="112" y="126" fill="#a7b0a4" font-size="21" font-weight="700" letter-spacing="4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">PORTFOLIO</text>
+  <text x="112" y="206" fill="#f0eee8" font-size="62" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif">포트폴리오 보기</text>
+  <text x="116" y="256" fill="#d8f7ea" font-size="27" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Selected projects and research work</text>
 
-  <rect x="116" y="304" width="216" height="52" rx="26" fill="#f3fff9"/>
-  <text x="153" y="338" fill="#0f4c3a" font-size="23" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Open Portfolio</text>
+  <rect x="112" y="306" width="222" height="50" rx="8" fill="none" stroke="#74c69d" stroke-width="2"/>
+  <text x="145" y="338" fill="#74c69d" font-size="22" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Open Portfolio</text>
 
-  <text x="1188" y="326" fill="#d8f7ea" font-size="24" font-weight="600" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">R&amp;D</text>
+  <g fill="none" stroke="#1a6b50" stroke-width="3" stroke-linecap="round" opacity="0.68">
+    <path d="M800 210C862 210 894 124 960 124"/>
+    <path d="M800 210C872 210 910 292 990 292"/>
+    <path d="M800 210L940 210"/>
+    <path d="M960 124C1020 124 1044 78 1116 78"/>
+    <path d="M960 124C1018 124 1040 168 1108 168"/>
+    <path d="M940 210C1004 210 1030 238 1098 238"/>
+    <path d="M990 292C1048 292 1072 340 1138 340"/>
+  </g>
+  <g fill="#74c69d">
+    <circle cx="800" cy="210" r="6" opacity="0.9"/>
+    <circle cx="960" cy="124" r="5" opacity="0.78"/>
+    <circle cx="940" cy="210" r="5" opacity="0.78"/>
+    <circle cx="990" cy="292" r="5" opacity="0.78"/>
+    <circle cx="1116" cy="78" r="3.5" opacity="0.64"/>
+    <circle cx="1108" cy="168" r="3.5" opacity="0.64"/>
+    <circle cx="1098" cy="238" r="4" opacity="0.68"/>
+    <circle cx="1138" cy="340" r="3.5" opacity="0.64"/>
+  </g>
+  <g fill="#d8f7ea" opacity="0.62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="822" y="192" font-size="22" font-weight="700">R&amp;D</text>
+    <text x="1138" y="85" font-size="15" font-weight="600">rag</text>
+    <text x="1130" y="175" font-size="15" font-weight="600">agent</text>
+    <text x="1120" y="245" font-size="15" font-weight="600">infra</text>
+    <text x="1160" y="347" font-size="15" font-weight="600">llm</text>
+  </g>
 </svg>

@@ -58,10 +58,10 @@
     <circle cx="1138" cy="340" r="3.5" opacity="0.64"/>
   </g>
   <g fill="#d8f7ea" opacity="0.62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
-    <text x="778" y="198" font-size="22" font-weight="700" text-anchor="end">R&amp;D</text>
-    <text x="1138" y="85" font-size="15" font-weight="600">rag</text>
-    <text x="1130" y="175" font-size="15" font-weight="600">agent</text>
-    <text x="1120" y="245" font-size="15" font-weight="600">infra</text>
-    <text x="1160" y="347" font-size="15" font-weight="600">llm</text>
+    <text x="778" y="198" font-size="22" font-weight="700" text-anchor="end">Me</text>
+    <text x="1138" y="85" font-size="15" font-weight="600">RnD</text>
+    <text x="1130" y="175" font-size="15" font-weight="600">Develop</text>
+    <text x="1120" y="245" font-size="15" font-weight="600">AI/RAG</text>
+    <text x="1160" y="347" font-size="15" font-weight="600">Infra</text>
   </g>
 </svg>

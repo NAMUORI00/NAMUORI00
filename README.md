@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://namuori.net">
-  <img src="./img/portfolio-card.svg?v=20260520-layout" width="760" alt="About Me - Profile, Work, Research at namuori.net" />
+  <img src="./img/portfolio-card.svg?v=20260520-me-tree" width="760" alt="About Me - Profile, Work, Research at namuori.net" />
 </a>
 
 </div>

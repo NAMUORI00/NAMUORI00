@@ -7,15 +7,21 @@
 
 ### 공개·비공개 프로젝트 전반에서 웹 서비스, 시스템 개발, 인프라 자동화, AI/RAG·경량 추론까지 폭넓게 다뤄 온 개발자입니다.
 
-<br/><br/>
+<br/>
 
-<a href="https://namuori.net">
-  <img src="https://img.shields.io/badge/Portfolio-namuori.net-0F4C3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="mailto:namuori00@namuori.net">
-  <img src="https://img.shields.io/badge/Email-namuori00@namuori.net-38bdf8?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
-</a>
+<table>
+  <tr>
+    <td align="left" width="620">
+      <a href="https://namuori.net">
+        <img src="https://img.shields.io/badge/Portfolio-namuori.net-0F4C3A?style=for-the-badge&logo=googlechrome&logoColor=white" height="36" alt="Portfolio" />
+      </a>
+      <br/><br/>
+      <b>Portfolio Hub</b>
+      <br/>
+      <sub>AI/RAG 연구, 인프라 자동화, 웹·시스템 개발 프로젝트를 한곳에서 확인할 수 있습니다.</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 

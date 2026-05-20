@@ -49,14 +49,18 @@
 
 <div align="center">
 
-### Open Collaboration
+### Contact
 
-<a href="https://github.com/NAMUORI00/NAMUORI00/issues">
-  <img src="https://img.shields.io/badge/GitHub%20Issues-Profile%20Feedback-22c55e?style=for-the-badge&logo=github" alt="profile feedback" />
+<a href="https://namuori.net">
+  <img src="https://img.shields.io/badge/Website-namuori.net-74c69d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" />
 </a>
 &nbsp;
 <a href="mailto:namuori00@namuori.net">
   <img src="https://img.shields.io/badge/Email-namuori00@namuori.net-38bdf8?style=for-the-badge&logo=minutemailer&logoColor=white" alt="email" />
+</a>
+&nbsp;
+<a href="https://github.com/NAMUORI00/NAMUORI00/issues">
+  <img src="https://img.shields.io/badge/GitHub%20Issues-Profile%20Feedback-22c55e?style=for-the-badge&logo=github" alt="profile feedback" />
 </a>
 
 </div>

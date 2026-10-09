@@ -7,7 +7,7 @@
 
 ### AI · LLM 백엔드 개발
 
-<img src="./img/hero.svg" width="100%" alt="회사에서의 쓰임새(사내 지식 Q&amp;A, 영상 관제, 설비 운영, 온디바이스)별 처리 흐름을 한 단계씩 재생합니다. 사용자 질문 → AI 사전 처리(채널 가중치 선택, 화면 가용성 추정, 필요 도구 선택, 검색어 구성 등) → 서버·데이터 요청 → 근거가 모델 입력으로 → LLM·VLM → 출력 → 사용자. 아래 검증·개선 작업 과정: 평가셋 구축 → 베이스라인 비교 → 지표 측정(검색·생성·안전·운영) → 원인 분석과 수정(예: 검색 순위가 낮으면 채널 가중치와 질문 유형 규칙, 근거 없이 답하면 보류 임계값과 LoRA 학습 데이터) → 고정·배포(사전 등록, 버전 고정, 회귀 테스트·CI/CD) → 다음 개선 주기." />
+<img src="./img/hero.svg" width="100%" alt="회사에서의 쓰임새(사내 지식 Q&amp;A, 영상 관제, 설비 운영, 온디바이스)별 처리 흐름을 한 단계씩 재생합니다. 사용자 질문 → AI 사전 처리 → 서버·데이터 요청 → 근거가 모델 입력으로 → LLM·VLM → 출력 → 사용자. 아래 검증·개선 과정: 평가셋 구축(LLM-as-a-Judge) → 베이스라인 비교(키워드·벡터 검색, Zero-shot 모델) → 지표 측정(nDCG, Faithfulness, AUROC / RAGAS, scikit-learn) → 원인 분석과 수정(가중치, 임계값, LoRA) → 고정·배포(회귀 테스트, pytest, GitHub Actions, Docker) → 다음 개선 주기." />
 
 <sub><a href="https://namuori.net">namuori.net</a> &nbsp;·&nbsp; <a href="https://namuori00.github.io/smartfarm-adaptive-rag/">스마트팜 대시보드 데모</a> &nbsp;·&nbsp; <a href="mailto:namuori00@namuori.net">namuori00@namuori.net</a></sub>
 

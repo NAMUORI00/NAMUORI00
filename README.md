@@ -1,146 +1,58 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c3a,100:1a6b50&height=220&section=header&text=NAMUORI00&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Systems%20Engineer%20%C2%B7%20Systems%20Builder&descAlignY=58&descAlign=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=220&section=header&text=NAMUORI00&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FLLM%20Backend%20Engineer%20%C2%B7%20RAG%20%C2%B7%20LLM%20Systems&descAlignY=58&descAlign=50" width="100%" alt="header" />
 
 <br/>
 
-### 공개·비공개 프로젝트 전반에서 웹/앱 서비스, 시스템 개발, 인프라(배포 재현성) 자동화,<br/>비전·AI/RAG·경량 추론까지 폭넓게 다뤄보고 공부하는 연구/개발자입니다.
+### AI · LLM 백엔드 개발
 
-<br/>
+<img src="./img/hero.svg" width="100%" alt="회사에서의 쓰임새(사내 지식 Q&amp;A, 영상 관제, 설비 운영, 온디바이스)별 처리 흐름을 사용자, AI 서비스, 서버·도구, 데이터·현장 시점으로 한 단계씩 재생합니다. AI 서비스 안에서는 다섯 단계 처리와 모델 입출력을 보여 주고, 맨 아래 검증·개선 상자에서 평가 데이터(AgXQA, 2WikiMultiHopQA, AI-Hub CCTV, MEVA-KF1, AI-Hub 의료 QA, 확정 시나리오 120개), 비교 대상(BM25, 동일 가중 RRF, DAT, LightRAG, 보류 프롬프트, zero-shot 대형 모델 등), 지표(nDCG@10, MRR, Recall@10, AUROC, RAGAS 등), 분석·조정, 고정·재배포 과정을 정리합니다." />
 
-<a href="https://namuori.net">
-  <img src="./img/portfolio-card.svg?v=20260521-ai-systems" width="760" alt="About Me - Profile, Work, Research at namuori.net" />
-</a>
+<sub><a href="https://namuori.net">namuori.net</a> &nbsp;·&nbsp; <a href="https://namuori00.github.io/smartfarm-adaptive-rag/">스마트팜 대시보드 데모</a> &nbsp;·&nbsp; <a href="mailto:namuori00@namuori.net">namuori00@namuori.net</a></sub>
 
 </div>
 
 <br/>
 
-## GitHub Activity
+## 기술 스택
+
+<table>
+<tr><th>분야</th><th>주력</th><th>사용 경험</th><th>근거 레포</th></tr>
+<tr><td><b>언어</b></td><td><code>Python</code> <code>Java</code> <code>TypeScript</code></td><td><code>JavaScript</code> <code>C#</code> <code>C++</code> <code>Rust</code></td><td><a href="https://github.com/NAMUORI00/smartfarm-adaptive-rag"><sub>smartfarm-adaptive-rag</sub></a><br/><a href="https://github.com/NAMUORI00/MusicSplitterWeb"><sub>MusicSplitterWeb</sub></a><br/><a href="https://github.com/NAMUORI00/GoldenGlove"><sub>GoldenGlove</sub></a></td></tr>
+<tr><td><b>AI · LLM</b></td><td><code>PyTorch</code> <code>Hugging Face Transformers</code> <code>PEFT · LoRA</code> <code>vLLM</code> <code>Qwen3-VL</code> <code>MCP</code></td><td><code>Ollama</code> <code>Gemma</code> <code>SigLIP2</code> <code>Grounding DINO</code></td><td><a href="https://github.com/NAMUORI00/multiview-selective-vqa"><sub>multiview-selective-vqa</sub></a><br/><a href="https://github.com/NAMUORI00/ondevice-medical-rag"><sub>ondevice-medical-rag</sub></a></td></tr>
+<tr><td><b>검색 · RAG</b></td><td><code>Qdrant</code> <code>FalkorDB</code> <code>BM25</code> <code>Hybrid Search (RRF)</code> <code>Sentence Transformers</code></td><td><code>FastEmbed</code> <code>Docling</code> <code>RAGAS</code></td><td><a href="https://github.com/NAMUORI00/smartfarm-adaptive-rag"><sub>smartfarm-adaptive-rag</sub></a><br/><a href="https://github.com/NAMUORI00/aerospace-rag"><sub>aerospace-rag</sub></a></td></tr>
+<tr><td><b>백엔드</b></td><td><code>FastAPI</code> <code>Spring Boot</code> <code>Pydantic</code> <code>MySQL</code> <code>MariaDB</code> <code>pytest</code></td><td><code>Spring Security</code> <code>JPA</code> <code>SQLite</code> <code>REST API</code></td><td><a href="https://github.com/NAMUORI00/smartfarm-state-revalidation"><sub>smartfarm-state-revalidation</sub></a><br/><a href="https://github.com/NAMUORI00/MusicSplitterWeb"><sub>MusicSplitterWeb</sub></a><br/><a href="https://github.com/NAMUORI00/SpringCommunityBoard"><sub>SpringCommunityBoard</sub></a></td></tr>
+<tr><td><b>인프라 · DevOps</b></td><td><code>Docker</code> <code>Docker Compose</code> <code>GitHub Actions</code> <code>Linux</code></td><td><code>Bash</code> <code>PowerShell</code> <code>GPU 서버 운영</code></td><td><a href="https://github.com/NAMUORI00/smartfarm-adaptive-rag"><sub>smartfarm-adaptive-rag</sub></a><br/><a href="https://github.com/NAMUORI00/comfyui-docker-installer"><sub>comfyui-docker-installer</sub></a></td></tr>
+<tr><td><b>프론트엔드</b></td><td><code>React</code> <code>Vite</code></td><td><code>Vue.js</code> <code>Tailwind CSS</code> <code>Bootstrap</code> <code>Vitest</code></td><td><a href="https://github.com/NAMUORI00/JsQuizApp"><sub>JsQuizApp</sub></a><br/><a href="https://github.com/NAMUORI00/MusicSplitterWeb"><sub>MusicSplitterWeb</sub></a></td></tr>
+</table>
+
+<br/>
+
+## GitHub 활동
 
 <div align="center">
-  <a href="https://github.com/NAMUORI00">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NAMUORI00&theme=github_dark" width="31%" alt="stats" />
-  </a>
-  <a href="https://github.com/NAMUORI00">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NAMUORI00&theme=github_dark" width="31%" alt="top languages by repo" />
-  </a>
-  <a href="https://github.com/NAMUORI00">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NAMUORI00&theme=github_dark" width="31%" alt="top languages by commit" />
-  </a>
+  <a href="https://github.com/NAMUORI00"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NAMUORI00&theme=github_dark" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NAMUORI00&theme=github" width="31%" alt="stats" /></picture></a>
+  <a href="https://github.com/NAMUORI00"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NAMUORI00&theme=github_dark" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NAMUORI00&theme=github" width="31%" alt="top languages by repo" /></picture></a>
+  <a href="https://github.com/NAMUORI00"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NAMUORI00&theme=github_dark" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NAMUORI00&theme=github" width="31%" alt="top languages by commit" /></picture></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAMUORI00&theme=react-dark&hide_border=true&area=true&color=4caf50&line=4caf50&point=ffffff" width="95%" alt="activity graph" />
+  <a href="https://github.com/NAMUORI00"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NAMUORI00&hide_border=true&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7&theme=github-dark-blue&background=0d1117" /><img src="https://streak-stats.demolab.com?user=NAMUORI00&hide_border=true&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7&theme=default" height="160" alt="streak" /></picture></a>
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/NAMUORI00">
-    <img src="https://streak-stats.demolab.com?user=NAMUORI00&theme=dark&background=0d1117&ring=4caf50&fire=4caf50&currStreakLabel=4caf50&sideLabels=c9d1d9&dates=555555&hide_border=true" height="160" alt="streak" />
-  </a>
-</div>
+---
+
+<p align="center"><a href="https://namuori.net"><img src="https://img.shields.io/badge/%EC%9E%90%EC%84%B8%ED%95%9C%20%EC%9D%B4%EB%A0%A5%20%EB%B3%B4%EA%B8%B0-namuori.net%20%E2%86%92-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0969da" alt="자세한 이력 보기 namuori.net" /></a></p>
 
 <br/>
 
 <div align="center">
 
-### Contact
-
-<a href="https://namuori.net">
-  <img src="https://img.shields.io/badge/Website-namuori.net-74c69d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" />
-</a>
-&nbsp;
-<a href="mailto:namuori00@namuori.net">
-  <img src="https://img.shields.io/badge/Email-namuori00@namuori.net-38bdf8?style=for-the-badge&logo=minutemailer&logoColor=white" alt="email" />
-</a>
-&nbsp;
-<a href="https://github.com/NAMUORI00/NAMUORI00/issues">
-  <img src="https://img.shields.io/badge/GitHub%20Issues-Profile%20Feedback-22c55e?style=for-the-badge&logo=github" alt="profile feedback" />
-</a>
-
-</div>
-
-<br/>
-
-## Tech Stack
-
-<details open>
-  <summary><strong>Experience Stack</strong> - Python · TypeScript · AI/RAG · MCP</summary>
-
-  <br/>
-
-  - **Languages**<br/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C Sharp" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C Plus Plus" />
-
-  - **Web / App**<br/>
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA" />
-
-  - **AI / RAG / Data**<br/>
-    <img src="https://img.shields.io/badge/AI%2FRAG-0F4C3A?style=flat-square&logo=openai&logoColor=white" alt="AI RAG" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-    <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
-    <img src="https://img.shields.io/badge/FalkorDB-2E7D32?style=flat-square" alt="FalkorDB" />
-    <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-    <img src="https://img.shields.io/badge/BM25-455A64?style=flat-square" alt="BM25" />
-
-  - **Infra / Automation**<br/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" alt="Linux" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-    <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MediaMTX-263238?style=flat-square" alt="MediaMTX" />
-
-  - **AI Agents / MCP**<br/>
-    <img src="https://img.shields.io/badge/MCP-111827?style=flat-square" alt="MCP" />
-    <img src="https://img.shields.io/badge/AI%20Agents-0F4C3A?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
-    <img src="https://img.shields.io/badge/Agentic%20Workflow-1F6FEB?style=flat-square" alt="Agentic Workflow" />
-    <img src="https://img.shields.io/badge/Computer%20Use-374151?style=flat-square" alt="Computer Use" />
-
-  - **Retrieval / Local LLM**<br/>
-    <img src="https://img.shields.io/badge/GraphRAG-2E7D32?style=flat-square" alt="GraphRAG" />
-    <img src="https://img.shields.io/badge/Vector%20Database-00897B?style=flat-square" alt="Vector Database" />
-    <img src="https://img.shields.io/badge/Knowledge%20Graph-6A1B9A?style=flat-square" alt="Knowledge Graph" />
-    <img src="https://img.shields.io/badge/Local%20LLM-111111?style=flat-square&logo=ollama&logoColor=white" alt="Local LLM" />
-    <img src="https://img.shields.io/badge/LLM%20Inference-3949AB?style=flat-square" alt="LLM Inference" />
-
-  - **Platform / Product Automation**<br/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-    <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-    <img src="https://img.shields.io/badge/Workflow%20Automation-FF6D00?style=flat-square&logo=n8n&logoColor=white" alt="Workflow Automation" />
-    <img src="https://img.shields.io/badge/Data%20Visualization-F9A03C?style=flat-square&logo=grafana&logoColor=white" alt="Data Visualization" />
-
-  - **Research / Systems**<br/>
-    <img src="https://img.shields.io/badge/OCR%20%2F%20Document%20AI-1565C0?style=flat-square" alt="OCR and Document AI" />
-    <img src="https://img.shields.io/badge/Computer%20Vision-5E35B1?style=flat-square" alt="Computer Vision" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-    <img src="https://img.shields.io/badge/Reverse%20Engineering-6B7280?style=flat-square" alt="Reverse Engineering" />
-</details>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c3a,100:1a6b50&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=120&section=footer" width="100%" alt="footer" />
 
 </div>

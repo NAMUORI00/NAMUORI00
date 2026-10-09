@@ -17,6 +17,19 @@
 
 <br/>
 
+## 연구
+
+| 저장소 | 내용 | 논문 |
+|---|---|---|
+| [smartfarm-adaptive-rag](https://github.com/NAMUORI00/smartfarm-adaptive-rag) | 질의 적응형 검색 채널 제어, 승인형 설비 제어, 3D 운영 대시보드를 갖춘 스마트팜 AI 운영 지원 시스템 ([데모](https://namuori00.github.io/smartfarm-adaptive-rag/)) | 한국정보기술학회논문지 게재, 제1저자 |
+| [multiview-selective-vqa](https://github.com/NAMUORI00/multiview-selective-vqa) | 근거가 충분할 때만 답하는 다중 시점 CCTV 영상 질의응답 | IEEE Access 심사 중, 제1저자 |
+| [smartfarm-state-revalidation](https://github.com/NAMUORI00/smartfarm-state-revalidation) | 센서 상태가 바뀌면 영향받는 답변 부분만 다시 쓰고 실행 직전에 다시 확인하는 선택적 답변 수정 | 석사학위논문(2027년 2월 예정) |
+| [ondevice-medical-rag](https://github.com/NAMUORI00/ondevice-medical-rag) | 근거 추적형 로컬 RAG 기반 온디바이스 의료 질의응답(Android, Gemma 4 E2B) | 한국정보기술학회 하계학술대회 발표, 제1저자 |
+
+그 밖의 프로젝트는 [namuori.net](https://namuori.net)에 정리했습니다.
+
+<br/>
+
 ## GitHub Activity
 
 <div align="center">

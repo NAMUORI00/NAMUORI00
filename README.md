@@ -7,7 +7,7 @@
 
 ### AI · LLM 백엔드 개발
 
-<img src="./img/hero.svg" width="100%" alt="회사에서의 쓰임새(사내 지식 Q&amp;A, 영상 관제, 설비 운영, 온디바이스)별 처리 흐름을 사용자, AI 서비스, 서버·도구, 데이터·현장 시점으로 한 단계씩 재생합니다. AI 서비스 안에서는 다섯 단계 처리와 모델 입출력을 보여 주고, 맨 아래 검증·개선 상자에서 평가 데이터(AgXQA, 2WikiMultiHopQA, AI-Hub CCTV, MEVA-KF1, AI-Hub 의료 QA, 확정 시나리오 120개), 비교 대상(BM25, 동일 가중 RRF, DAT, LightRAG, 보류 프롬프트, zero-shot 대형 모델 등), 지표(nDCG@10, MRR, Recall@10, AUROC, RAGAS 등), 분석·조정, 고정·재배포 과정을 정리합니다." />
+<img src="./img/hero.svg" width="100%" alt="회사에서의 쓰임새(사내 지식 Q&amp;A, 영상 관제, 설비 운영, 온디바이스)별 처리 흐름을 한 단계씩 재생합니다. 사용자 질문 → AI 사전 처리 3단계 → 서버·데이터에 요청 → 근거가 돌아와 모델 입력(질문과 근거 문단, 선택 화면 이미지, 도구 결과 등) → LLM·VLM → 출력(답변과 출처, 보류, 도구 호출, 제어 제안) → 사용자. 아래 검증·개선 상자에는 평가 데이터, 비교 대상, 지표, 분석·조정, 고정·재배포를 정리했습니다." />
 
 <sub><a href="https://namuori.net">namuori.net</a> &nbsp;·&nbsp; <a href="https://namuori00.github.io/smartfarm-adaptive-rag/">스마트팜 대시보드 데모</a> &nbsp;·&nbsp; <a href="mailto:namuori00@namuori.net">namuori00@namuori.net</a></sub>
 

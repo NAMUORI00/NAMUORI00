@@ -20,7 +20,7 @@
 |---|---|---|
 | [**smartfarm-adaptive-rag**](https://github.com/NAMUORI00/smartfarm-adaptive-rag) | 스마트팜 AI 운영 지원 시스템. 질의 적응형 검색(QACT), 승인형 설비 제어(MCP), 3D 운영 대시보드 | nDCG@10 +0.023~0.087, KCI 등재지 제1저자 게재, [라이브 데모](https://namuori00.github.io/smartfarm-adaptive-rag/) |
 | [**multiview-selective-vqa**](https://github.com/NAMUORI00/multiview-selective-vqa) | 근거가 충분할 때만 답하는 다중 시점 CCTV 질의응답 (Qwen3-VL-8B, LoRA) | 잘못된 답 공개 27 → 0건, 정답 공개 +41.2%p, IEEE Access 제1저자 심사 중 |
-| [**smartfarm-state-revalidation**](https://github.com/NAMUORI00/smartfarm-state-revalidation) | 센서가 바뀐 부분만 다시 쓰는 선택적 답변 수정 (석사학위논문 연구) | 전체 재생성과 같은 응답–상태 일치를 유지하며 다시 생성하는 단위 26.5% 감소 |
+| **smartfarm-state-revalidation** (비공개) | 센서가 바뀐 부분만 다시 쓰는 선택적 답변 수정 (석사학위논문 연구) | 전체 재생성과 같은 응답–상태 일치를 유지하며 다시 생성하는 단위 26.5% 감소 |
 | [**ondevice-medical-rag**](https://github.com/NAMUORI00/ondevice-medical-rag) | 인터넷 없이 Android에서 동작하는 근거 추적형 의료 질의응답 (Gemma 4 E2B) | 학회 발표 제1저자, 근거 검색 평균 4.5ms |
 
 그 밖의 프로젝트: [aerospace-rag](https://github.com/NAMUORI00/aerospace-rag) (Colab 3채널 문서 RAG), [comfyui-docker-installer](https://github.com/NAMUORI00/comfyui-docker-installer) (GPU 서버 ComfyUI 설치 패키지), [music-splitter-web](https://github.com/NAMUORI00/music-splitter-web) (AI 음원 분리 웹 서비스)
